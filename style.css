@@ -76,11 +76,11 @@ a:hover, a:active, a.active {
 }
 
 /* Lists */
-#main div.box1 ul {
+#content div.box1 ul {
 	padding:10px 10px 10px 20px;
 	list-style:decimal;
 }
-#main div.box1 ol {
+#content div.box1 ol {
 	padding:10px 10px 10px 20px;
 	list-style-type:none;
 }
@@ -149,13 +149,6 @@ blockquote {
 		padding: 0 0 0;
 		width: 640px;
 	}
-		#main {
-			float: left;
-			width: 100%;
-		}
-		#main img, object, embed, iframe {
-			max-width: 640px;
-		}
 	
 #footer {
 	width: 640px; height: 65px;
