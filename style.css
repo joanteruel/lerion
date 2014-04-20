@@ -105,13 +105,6 @@ blockquote {
 	padding: 30px;
 }
 
-	#header, #content, #footer {
-		float: left;
-		display: inline;
-		clear: both;
-		position: relative;
-	}
-
 	#header {
 		height: 150px;
 		width: 640px;
