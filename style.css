@@ -139,6 +139,17 @@ blockquote {
 			#logo a:hover {
 				text-decoration: none;
 			}
+
+		div#hi {
+			text-align: right;
+			width: 250px;
+			position: absolute;
+			top: 45px; right: 0;
+		}
+		/*	div#hi p a {
+				color: #2e5dab;
+				font: bold;
+		}*/
 			
 	#content {
 		padding: 0 0 0;
@@ -185,17 +196,6 @@ html, body, * html #wrap {height: 100%;}
 	#footer #footerWrap #copy a {
 		color: #2e5dab;
 	}
-
-div#hi {
-	text-align: right;
-	width: 250px;
-	position: absolute;
-	top: 45px; right: 0;
-}
-/*	div#hi p a {
-		color: #2e5dab;
-		font: bold;
-	}*/
 
 h3#myWritings {
 	width: 160px; height: 34px;
