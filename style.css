@@ -167,25 +167,10 @@ blockquote {
 2.d Elements, ID's & Classes // font: 12px/19px "lucida grande", lucida, tahoma, helvetica, arial, sans-serif;
 -------------------------------*/
 
-h3#myWritings {
-	width: 160px; height: 34px;
-	margin: 0 0 10px 12px;
-		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
-		letter-spacing:-1px;
-}
-
-h3#myVideos {
-	width: 138px; height: 33px;
-	margin: 35px 0 11px;
-		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
-		letter-spacing:-1px;
-}
-
-h3#myPhotos {
-	width: 137px; height: 34px;
-	margin: 0 0 10px;
-		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
-		letter-spacing:-1px;
+h3#titles {
+	width: 138px; height: 34px;
+	margin: 0 0 10px 0px;
+	font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 }
 
 div.box1, ol.commentlist li, form#comments { background: #fff; }
