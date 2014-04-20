@@ -20,13 +20,7 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 /*------------------------------------------------------------------
 2.	MAIN STYLES
 	General definitions
---------------------------------------------------------------------
-
-/*-------------------------------
-2.a Tags defaults
----------------------------------
-[?] Tags only. No classes or ID's here. , arial, "lucida grande", lucida, tahoma, helvetica, arial, sans-serif helvetica, arial, sans-serif
-*/
+--------------------------------------------------------------------*/
 	
 body {
 	background: #eeeeee;
@@ -182,7 +176,7 @@ h3#myWritings {
 
 h3#myVideos {
 	width: 138px; height: 33px;
-	margin: 35px 0 11px 12px;
+	margin: 35px 0 11px;
 		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 		letter-spacing:-1px;
 }
@@ -190,13 +184,6 @@ h3#myVideos {
 h3#myPhotos {
 	width: 137px; height: 34px;
 	margin: 0 0 10px;
-		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
-		letter-spacing:-1px;
-}
-
-h3#Twitter {
-	width: 189px; height: 34px;
-	margin: 30px 0 10px;
 		font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 		letter-spacing:-1px;
 }
@@ -263,13 +250,6 @@ div.box1 {
 		}
 		
 		div.box1 ul.left-list li a, div.box1 ul.right-list li a, div.box1 ul.list3 li a { color: #dadada }
-
-div.box2 {
-	background: #fff;
-	border-right: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
-	margin: 0 0 10px;
-	padding: 0px 20px 5px;
-}
 
 
 .txt0, .continue { color: #888; font-size: 0.9em;}
