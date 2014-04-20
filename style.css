@@ -162,11 +162,11 @@ blockquote {
 			
 	#content {
 		padding: 0 0 0;
-		width: 100%;
+		width: 720px;
 	}
 		#main {
 			float: left;
-			width: 720px;
+			width: 100%;
 		}
 		#main img {
 			max-width: 720px;
@@ -179,7 +179,7 @@ blockquote {
 		#sidebar h3 { margin-top:10px; }
 	
 #footer {
-	width: 98%; height: 65px;
+	width: 100%; height: 65px;
 }
 	#footerWrap {
 		color: #000;
@@ -424,7 +424,7 @@ Widgets
 /* Para videos en HD */
 object, iframe {
 	width: 720px;
-	height: 394px;
+	height: 405px;
 }
 
 /* Para videos en SD 4:3 */
