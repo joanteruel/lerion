@@ -113,7 +113,8 @@ blockquote {
 			font:normal bold 20px/20px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 			letter-spacing:-1px;
 			position: relative;
-			top: 46px; left: 0px;
+			top: 46px;
+			left: 0px;
 			display:block;
 		}
 
@@ -129,7 +130,8 @@ blockquote {
 			text-align: right;
 			width: 250px;
 			position: relative;
-			top: 45px; right: 0;
+			top: 45px;
+			left: 640px;
 		}
 		/*	div#hi p a {
 				color: #2e5dab;
