@@ -128,7 +128,7 @@ blockquote {
 		div#hi {
 			text-align: right;
 			width: 250px;
-			position: absolute;
+			position: relative;
 			top: 45px; right: 0;
 		}
 		/*	div#hi p a {
