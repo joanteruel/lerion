@@ -112,8 +112,7 @@ blockquote {
 		#logo { margin: 0;
 			font:normal bold 20px/20px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 			letter-spacing:-1px;
-			cursor: pointer;
-			position: absolute;
+			position: relative;
 			top: 46px; left: 0px;
 			display:block;
 		}
