@@ -247,7 +247,7 @@ h2.title { color: #fff; margin: 0 0 14px }
 div.post { padding: 5px 0px 10px 0px }
 .post strong { font-weight: 700 }
 .post em { font-style: italic}
-.post object, iframe, img { margin: 10px 0 0 -20px }
+div.post object, iframe, img { margin: 10px 0 0 -20px }
 
 div.post h3 a {
 	color: #000;
