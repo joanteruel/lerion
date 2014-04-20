@@ -138,6 +138,8 @@ blockquote {
 		margin-bottom: 40px;
 	}
 	
+	#content object, iframe, img { margin: 0 }	
+	
 	#photos {
 		margin-bottom: 40px;
 	}
