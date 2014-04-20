@@ -188,7 +188,7 @@ html, body, * html #wrap {height: 100%;}
 
 div#hi {
 	text-align: right;
-	width: 400px;
+	width: 250px;
 	position: absolute;
 	top: 45px; right: 0;
 }
