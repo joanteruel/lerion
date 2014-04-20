@@ -125,7 +125,8 @@ blockquote {
 
 		div#hi {
 			text-align: right;
-			width: 240px;
+			width: 640px;
+			padding-left: 400px;
 		}
 		/*	div#hi p a {
 				color: #2e5dab;
