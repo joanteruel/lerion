@@ -331,7 +331,6 @@ object, iframe {
 Utility classes
 -------------------------------*/
 
-.wrap { float: left;	display: inline; position: relative; clear: both }
 .clear { clear: both }
 
 
