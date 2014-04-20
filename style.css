@@ -164,12 +164,8 @@ blockquote {
 		}
 	
 #footer {
-	width: 640px; height: 65px;
+	width: 640px; height: 265px;
 }
-	#footerWrap {
-		color: #000;
-		margin: 0;
-	}
 
 
 /*-------------------------------
