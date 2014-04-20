@@ -175,8 +175,7 @@ blockquote {
 /* Fix Footer Position */
 #wrap {position: relative; min-height: 100%;}
 html, body, * html #wrap {height: 100%;}
-#content {padding-bottom: 100px;}
-#footer {margin-top: 20px; bottom: 15px }
+#content {padding-bottom: 40px;}
 
 /*-------------------------------
 2.d Elements, ID's & Classes // font: 12px/19px "lucida grande", lucida, tahoma, helvetica, arial, sans-serif;
