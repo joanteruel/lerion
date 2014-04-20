@@ -112,10 +112,7 @@ blockquote {
 		#logo { margin: 0;
 			font:normal bold 20px/20px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 			letter-spacing:-1px;
-			position: relative;
 			top: 46px;
-			left: 0px;
-			display:block;
 		}
 
 			#logo a {
@@ -129,9 +126,7 @@ blockquote {
 		div#hi {
 			text-align: right;
 			width: 250px;
-			position: relative;
 			top: 45px;
-			left: 640px;
 		}
 		/*	div#hi p a {
 				color: #2e5dab;
