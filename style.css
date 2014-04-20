@@ -100,10 +100,9 @@ blockquote {
 */
 
 #wrap {
-	margin: 15px;
-	text-align: left;
+	margin: 0 auto;
 	width: 680px;
-	position: relative;
+	padding: 30px;
 }
 
 	#header, #content, #footer {
