@@ -424,7 +424,7 @@ Widgets
 /* Para videos en HD */
 object, iframe {
 	width: 720px;
-
+	height: 394px;
 }
 
 /* Para videos en SD 4:3 */
