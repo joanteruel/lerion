@@ -164,22 +164,15 @@ blockquote {
 		}
 	
 #footer {
-	width: 640px; height: 265px;
+	width: 640px; height: 65px;
+	top: 10px;
+	text-align: center;
 }
 
 
 /*-------------------------------
 2.d Elements, ID's & Classes // font: 12px/19px "lucida grande", lucida, tahoma, helvetica, arial, sans-serif;
 -------------------------------*/
-
-#footer #footerWrap #copy {
-	position: relative;
-	top: 10px;
-	text-align: center;
-}
-	#footer #footerWrap #copy a {
-		color: #2e5dab;
-	}
 
 h3#myWritings {
 	width: 160px; height: 34px;
