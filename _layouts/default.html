@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+		{% include header.html %}
+
+    </head>
+<body>
+	<div id="wrap">
+		
+		{% include logo.html %}
+
+	<div id="content">
+		<div id="main">
+
+	    {{ content }}
+
+		<div id="more"><a href="{{site.base_url}}/archive.html"><span class="plus">+</span><span class="in">&nbsp;on&nbsp;Archive</span></a>
+		</div>
+
+
+
+		</div>
+
+		{% include sidebar.html %}
+		
+	</div>
+	</div>
+
+		{% include footer.html %}
+
+</body>
+</html>

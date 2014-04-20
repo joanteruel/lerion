@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="box1 clearfix">
+<div class="post clearfix">
+	
+	<h3>{{ page.title }}</h3>
+
+	<span class="txt0">// {{page.date|date:"%B %d, %Y"}} // by {% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%}</span>
+
+	{{ content }}
+
+</div>
+</div>
+

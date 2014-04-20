@@ -1,0 +1,18 @@
+---
+layout: post
+author:  Joan
+title: Steve Jobs, discurso en Stanford
+tags:
+- Reflexiones
+status: publish
+type: post
+published: true
+meta: {}
+---
+Después de ver la peli de "Piratas de Silicon Valley" os pongo el vídeo y el texto del discurso de Steve Jobs (el de verdad) en la ceremonia de graduación de la universidad de Stanford, en octubre de 2005. Será el CEO de Apple y Pixar, caerá bien o no, pero no me negaréis que detrás de este discurso se ve a una persona íntegra, de una gran calidad humana...
+
+Que lo disfrutéis!
+
+<center><embed style="width:400px; height:355px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=3014637678488153340&hl=es" flashvars=""> </embed></center>
+
+Enlace: <a href="http://video.google.com/videoplay?docid=3014637678488153340&hl=es">Video en pantalla completa</a>.

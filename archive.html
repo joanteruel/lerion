@@ -1,0 +1,26 @@
+---
+layout: page
+title: Archive
+---
+<h3 id="myWritings">Archive</h3>
+	<div class="box1 clearfix">
+	<div class="post clearfix">
+
+		{% for post in site.posts %}
+
+			{% unless post.next %}
+			<h3>{{ post.date | date: '%Y' }}</h3>
+		{% else %}
+			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+				{% if year != nyear %}
+					<br /><h3>{{ post.date | date: '%Y' }}</h3>
+				{% endif %}
+			{% endunless %}
+
+		<span class="archivo"><a href="{{site.base_url}}{{ post.url }}">{{ post.title }}</a></span><span class="txt0"> - {{post.date|date:"%b %d, %Y"}}<br /></span>
+
+		{% endfor %}
+
+	</div>                   
+	</div>

@@ -1,0 +1,31 @@
+---
+layout: post
+author: Jaume
+title: 5 días en Londres
+tags:
+- Reflexiones
+- Viajes
+status: publish
+type: post
+published: true
+meta: {}
+---
+Del 16 al 21 de marzo viajamos a Londres con una compañia de bajo presupuesto hasta el aeropuerto de Luton, un pequeño pero acogedor aeropuerto a las afueras de la gran ciudad. Tras ello comenzamos la aventura en Londres, en esa gran ciudad de infinitos terrenos, el ambiente tan multicultural que se respira allí es fantástico, nadie llama la antención por ir vestido de una forma o de otra.
+
+Nos hospedamos en un albergue, el Astor Quest,  situado al lado de Hyde Park que es un gigante parque de 6.5 kilometros de distancia, totalmente verde y lleno de árboles, gente tumbada en el suelo, montando a caballo y donde se han rodado muchas escenas de películas como Peter Pan. También paseamos por Chelsea y visitamos el Museo de Historia Natural que nos gustó mucho, vimos esqueletos de dinosaurios, exposiciones de insectos, de reptiles, de especies extinguidas, de vegetales curiosos, de fenómenos atmosféricos y además es gratis como muchos otros museos de Londres.
+
+El segundo día dimos un paseo por el río Támesis, el famoso río navegable tan majestuoso que domina Londres de principio a fin, cruzamos el Puente de Londres con sus dos torres y sus bandas azules y desde allí nos dirigimos a la Torre de Londres donde se encuentran las joyas de la corona entre otras cosas, la entrada cuesta 14 libras (11 con el ISIC) y es un poco sosa. Al fondo, en la zona de negocios "la city", se ve un rascacielos de Norman Foster que parece un torpedo (muy parecido a la torre AGBAR de barcelona).
+También visitamos Westminster, el barrio cultural por excelencia, el más famoso, donde se encuentra el Buckingham Palace, la Abadia de Westminster, las Casas del Parlamento y el Big Ben (visita obligada con foto). Y para terminar el día nos montamos en el London Eye, una noria enorme en la orilla del támesis que tarda 25 minutos en dar la vuelta, desde donde se ve toda la ciudad.
+
+El tercer día visitamos el mercadillo de Camden Town, el más alternativo de Londres, donde se puede encontrar de todo: ropa vintage, prendas bastante caras originalmente fabricadas en los años 60, o de segunda mano, calzado, discos viejos, libros antiguos, juguetes, tiendas para roqueros, para góticos, bares, restaurantes de comida rápida, muebles antiguos y no tan antiguos... Este sitio nos dejó impresionados, por cierto, si regateas puedes comer por muy poco dinero, nosotros nos llenamos por 2,50 libras.
+Por la tarde visitamos Oxford st, el centro más glamouroso y famoso de Londres, cuna de las tiendas más famosas y caras, es como la 5º avenida londinense. Seguidamente nos dimos un paseo por el Soho, uno de los barrios mas pintorescos de londres, donde se encuentra China Town. Luego visitamos Trafalgar Square, la plaza con una gran columna sobre la que se erige la estatua del almirante Nelson conmemorando la victoria de la batalla de trafalgar, y a sus pies cuatro leones enormes fabricados en bronce. Desde allí nos dirigimos a Picadilly Circus, la mítica plaza caracterizada por sus rótulos publicitarios luminosos y grandes pantallas con spots en movimiento, me gustaría saber cuanto le cuesta a coca-cola o TDK mantener esa publicidad. Por la noche visitamos el centro comercial London Trocadero y el Planet Hollywood.
+
+El cuarto día. Decidimos empezar el día paseando por Hyde Park hacia South Kensington y nos dirigimos al Museo de la Ciencia, vimos aviones, barcos, coches, máquinas de todo tipo, el CRAY-1, toqueteamos muchos artilugios, habían cosas muy interesantes pero quizás enfocadas a un público infantil. Aprovechando la mañana soleada dimos una vuelta y entramos en los Harrods, los lujosos almacenes propiedad del empresario Al Fayed, padre de Dodi, el amante de Diana de Gales que la acompañaba en el fatídico día de su muerte. Una de las cosas que más nos llamó la atención era una antigua cama de matrimonio que costaba más de 90.000 euros y es que todo lo que había era carísimo. Y hablando de cosas caras, Londres es la ciudad con más coches de lujo por metro cuadrado que he visto (Ferrari, Bentley, Rolls-Royce...), eso sí, sólo en el centro.
+Por la tarde estuvimos en la catedral de Saint Paul encuadrada en mitad de la "city" o ciudad de negocios londinense. Destacar la gran cúpula, la segunda mayor del mundo que corona todo el complejo y señalar también que si nos situamos de espaldas a ella nos encontraremos con otro de los puentes que cruzan el Támesis, en este caso se trata del puente del milenio, un puente que conecta directamente con la galería de arte contemporáneo Tate Modern. A continuación fuimos al British Museum, uno de los más conocidos e importantes del mundo. Tras los muros de un edificio neoclásico se esconden obras traídas de los cinco continentes, la gran riqueza de sus objetos nos deja ver el poder británico que, en algún tiempo logró hacerse con todos estos tesoros y guardarlos, formando una colección única. Por cierto, la entrada también es gratuita. Por la noche fuimos a dar un paseo por Notting Hill e intentamos encontrar la casa donde se rodó la película "Notting Hill" pero no lo conseguimos, allí fue donde probamos el Fish & Chips que no es más que eso, pescado y patatas fritas.
+
+El quinto día cogimos un autobús en Victoria Station y fuimos a la ciudad de Oxford, la ciudad es pequeña y tiene un encanto y una magia que parece que estás en un cuento de hadas y elfos. Una de las cosas que más me impactó fue la visita al Christ's Church, la Universidad-Iglesia donde se rodó la pelicula "Harry Potter", otra fué el jardín del New College que me recordó a la "Comarca" de los Hobbits.
+Por la tarde-noche volvimos a Londres y dimos un paseo por el centro, cenamos en un McDonals (sé lo que estais pensando) y regresamos al albergue para coger las maletas. Después de eso cogimos un tren en Kings Cross hasta Luton, y de Luton a casa.
+
+En fin, independientemente de si te gustan las grandes ciudades o no, de si te gustan los museos o no, de si te gustan las aglomeraciones o no, te recomiendo que visites Londres porque Londres es una ciudad sorprendente.
+
+Encontrarás muchas imágenes del viaje en el <a href="http://www.lerion.com/fotoblog/">álbum de fotos</a> de Lerion.
