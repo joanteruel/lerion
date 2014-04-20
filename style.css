@@ -90,15 +90,6 @@ a:hover, a:active, a.active {
 	padding:10px 10px 10px 20px;
 	list-style-type:none;
 }
-#main div.box1 cite {
-}
-
-#sidebar .box1 { margin:7px 0 18px; padding: 18px;}
-#sidebar #videos .box1 { margin: 0 0 20px; padding: 10px; }
-
-#sidebar ul, #sidebar ol { 
-	list-style-type:none;
-}
 
 blockquote {
 	margin-top: 10px;
@@ -117,7 +108,7 @@ blockquote {
 #wrap {
 	margin: auto;
 	text-align: left;
-	width: 780px;
+	width: 680px;
 	position: relative;
 }
 
@@ -129,7 +120,7 @@ blockquote {
 
 	#header {
 		height: 150px;
-		width: 100%;
+		width: 640px;
 		z-index: 9999;
 	}
 		#logo { margin: 0;
@@ -137,7 +128,7 @@ blockquote {
 			letter-spacing:-1px;
 			cursor: pointer;
 			position: absolute;
-			top: 46px; left: 7px;
+			top: 46px; left: 0px;
 			display:block;
 		}
 
