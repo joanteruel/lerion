@@ -101,7 +101,7 @@ blockquote {
 
 #wrap {
 	margin: 0 auto;
-	width: 680px;
+	width: 640px;
 	padding: 30px;
 }
 
@@ -155,7 +155,8 @@ blockquote {
 	}
 	
 #footer {
-	width: 640px; height: 65px;
+	width: 640px;
+	height: 65px;
 	text-align: center;
 }
 
