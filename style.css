@@ -146,8 +146,8 @@ blockquote {
 		}*/
 			
 	#content {
-		padding: 0 0 0;
 		width: 640px;
+		margin-bottom: 40px;
 	}
 	
 	#photos {
@@ -159,7 +159,7 @@ blockquote {
 	}
 	
 	#posts {
-		margin-bottom: 40px;		
+			
 	}
 	
 #footer {
