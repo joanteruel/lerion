@@ -12,5 +12,5 @@ meta:
   _edit_last: '1'
   _wp_old_slug: ''
 ---
-<img src="http://maps.googleapis.com/maps/api/staticmap?size=353x300&maptype=roadmap\
+<img src="http://maps.googleapis.com/maps/api/staticmap?size=640x300&maptype=roadmap\
 &markers=size:mid%7Ccolor:red%7CBeijing%7CShanghai%7CCoron,palawan&sensor=false"/>
