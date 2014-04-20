@@ -150,6 +150,14 @@ blockquote {
 		width: 640px;
 	}
 	
+	#photos {
+		margin-bottom: 20px;
+	}
+	
+	#videos {
+		margin-bottom: 20px;		
+	}
+	
 #footer {
 	width: 640px; height: 65px;
 	text-align: center;
