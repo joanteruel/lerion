@@ -113,7 +113,8 @@ blockquote {
 }
 
 	#header, #content, #footer {
-		float: left; display: inline;
+		float: left;
+		display: inline;
 		clear: both;
 		position: relative;
 	}
@@ -165,7 +166,6 @@ blockquote {
 	
 #footer {
 	width: 640px; height: 65px;
-	top: 10px;
 	text-align: center;
 }
 
@@ -353,30 +353,6 @@ div.box1 ul.list2 li, div.list3 li {
 Widgets
 -------------------------------*/
 
-#flickr {
-	clear: both;
-	margin: 0 0 20px 0;
-	padding: 0 4px;
-}
-
-#flickr .flickr_badge_image a {
-	float: left;
-	display: inline;
-	margin: 0 16px 1px 0;
-	background: #fff;
-	padding: 8px 7px 2px 8px;
-	border-right: 1px solid #c2c2c2;
-	border-bottom: 1px solid #c2c2c2;
-}
-
-#flickr .flickr_badge_image a:hover {
-	border-right: #8b8b8b 1px solid;
-	border-bottom: #8b8b8b 1px solid;
-}
-
-#video {
-	padding: 0px 15px 15px 20px;
-}
 
 /* Para videos en HD */
 object, iframe {
@@ -390,28 +366,6 @@ object, iframe {
 	height: 265px;
 }*/
 
-#sidebar #advert_125x125 { padding:30px 0 20px 30px; margin: 0 0 18px;}
-#sidebar #advert_125x125 img { margin:0 15px 5px 0; }
-
-div.box1_twitter {
-	border-right: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
-	margin: 0 0 10px;
-	padding: 0px 20px 20px;
-	background: #fff;
-
-}
-
-.twtr-tweet-text {
-	font-size: 14px;
-	font-family: 'Open Sans', sans-serif;
-	line-height:25px;
-	font-weight: 300;
-	text-shadow: 0px 0px 1px #ccc;
-	}
-.twtr-ft {
-	display: none;
-}
-
 
 /*-------------------------------
 Utility classes
@@ -420,13 +374,4 @@ Utility classes
 .wrap { float: left;	display: inline; position: relative; clear: both }
 .clear { clear: both }
 
-/*-------------------------------
-Clearfix
--------------------------------*/
-
-/*
-.clearfix:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
-.clearfix { display: block }
-.fix{ clear: both; height: 1px; margin: -1px 0 0; overflow: hidden; }
-*/
 
