@@ -247,7 +247,7 @@ h2.title { color: #fff; margin: 0 0 14px }
 div.post { padding: 5px 0px 10px 0px }
 .post strong { font-weight: 700 }
 .post em { font-style: italic}
-div.post object, iframe, img { margin: 10px 0 0 -20px }
+.post object, iframe, img { margin: 10px 0 0 -20px }
 
 div.post h3 a {
 	color: #000;
@@ -293,6 +293,7 @@ div.box1 ul.list2 li, div.list3 li {
 }
 #more img{
 	height: 14px;
+	margin: 0;
 }
 
 /*------------------------------------------------------------------
@@ -307,6 +308,7 @@ Widgets
 
 /* Para videos en HD */
 object, iframe {
+	margin: 0;
 	width: 640px;
 	height: 360px;
 }
