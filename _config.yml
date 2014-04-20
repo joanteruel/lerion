@@ -3,8 +3,8 @@ description: Personal blog of Joan Teruel and Jaume Teruel
 author: Joan and Jaume
 author_email: joanrafel at gmail
 category_dir: /
-url: http://joanteruel.github.io/lerion/
-baseurl: /
+url: http://joanteruel.github.io/
+baseurl: /lerion/
 markdown: rdiscount
 permalink: /posts/:year-:month-:day-:title.html
 exclude: [images_posts]
