@@ -138,8 +138,6 @@ blockquote {
 		margin-bottom: 40px;
 	}
 	
-	#content object, iframe, img { margin: 0 }	
-	
 	#photos {
 		margin-bottom: 40px;
 	}
@@ -148,7 +146,7 @@ blockquote {
 		margin-bottom: 40px;		
 	}
 	
-	#posts object, iframe, img { margin: 10px 0 0 -20px }
+	#posts object, #posts iframe, #posts img { margin: 10px 0 0 -20px }
 	
 #footer {
 	width: 640px;
