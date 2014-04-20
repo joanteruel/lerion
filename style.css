@@ -229,10 +229,6 @@ div.box1 {
 		}
 		
 		div.box1 ul.left-list li a, div.box1 ul.right-list li a, div.box1 ul.list3 li a { color: #dadada }
-		
-		div.box1 object, iframe {
-			margin-left: -20px;
-		}
 
 
 .txt0, .continue { color: #888; font-size: 0.9em;}
@@ -249,8 +245,9 @@ div.box1 {
 h2.title { color: #fff; margin: 0 0 14px }
 
 div.post { padding: 5px 0px 10px 0px }
-.post strong { font-weight: 700;}
+.post strong { font-weight: 700 }
 .post em { font-style: italic}
+.post object, iframe, img { margin: 10px 0 0 -20px }
 
 div.post h3 a {
 	color: #000;
