@@ -128,7 +128,7 @@ blockquote {
 #wrap {
 	margin: auto;
 	text-align: left;
-	width: 960px;
+	width: 780px;
 	position: relative;
 }
 
@@ -166,17 +166,15 @@ blockquote {
 	}
 		#main {
 			float: left;
-			width: 374px;
+			width: 720px;
 		}
 		#main img {
-			max-width: 353px;
+			max-width: 720px;
 		}
 		#main object, embed, iframe {
-			max-width: 522px;
+			max-width: 720px;
 		}
 		#sidebar {
-			float: right;
-			width: 543px;
 		}
 		#sidebar h3 { margin-top:10px; }
 	
@@ -185,7 +183,6 @@ blockquote {
 }
 	#footerWrap {
 		color: #000;
-		width: 960px;
 		margin: 0 auto;
 		position: relative;
 	}
