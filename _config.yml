@@ -4,7 +4,6 @@ author: Joan and Jaume
 author_email: joanrafel at gmail
 category_dir: /
 url: http://joanteruel.github.io/lerion/
-baseurl: /lerion/
 markdown: rdiscount
 permalink: /posts/:year-:month-:day-:title.html
 exclude: [images_posts]
