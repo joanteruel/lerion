@@ -15,4 +15,4 @@ Ya que finalmente no pudimos asistir a la Maratón de Nueva York (otro año ser�
 
 El caso es que quien quiera podrá hacer un seguimiento casi en directo de nuestros progresos en la carrera. Para ello sólo es necesario acceder a nuestros perfiles de <a href="http://www.runkeeper.com">Runkeeper</a>, tanto el de <a href="http://runkeeper.com/user/ Joanrafel/profile">Slap</a> como el de <a href="http://runkeeper.com/user/Jaumeteruel/profile">Ryf</a>. Además se pueden ver todos los entrenamientos realizados los últimos días. Nuestro objetivo para esta carrera es rebajar los 50 minutos. Así que si alguien más se anima que avise.
 
-<a href="http://www.jeanbouin.cat/"><img src="../images_posts/jean_bouin_10.jpg" alt="Jean Bouin 2010" /></a>
+<a href="http://www.jeanbouin.cat/"><img src="/images_posts/jean_bouin_10.jpg" alt="Jean Bouin 2010" /></a>
