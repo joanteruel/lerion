@@ -29,8 +29,8 @@ body {
 	background: #eeeeee;
 	color: #000;
 	font-family: "Georgia Pro", Helvetica, 'Open Sans', sans-serif;
-	font-size: 22px;
-	line-height: 30px;
+	font-size: 23px;
+	line-height: 31px;
 }
 
 
@@ -100,13 +100,13 @@ blockquote {
 		width: 800px;
 	}
 		#logo { margin: 0;
-			font:normal bold 20px/20px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
+			font:normal bold 26px/26px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 			letter-spacing:-1px;
 			top: 46px;
 		}
 
 			#logo a {
-				font:normal bold 64px/56px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
+				font:normal bold 74px/66px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 			}
 			#logo a:hover {
 				text-decoration: none;
