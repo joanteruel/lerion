@@ -17,9 +17,114 @@ License: GNU/GPL Version 2 or later. http://www.gnu.org/licenses/gpl.html
 body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }
 
 @font-face {
-	font-family: "Georgia Pro";
-	src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/3764b2f7-4b10-4419-998b-d39c48433307") format("truetype");
+ font-family: "Franklin ITC Pro Bold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/a2664c9a-d783-4071-86ec-478136d31525") format("truetype");
+ font-style: normal;
+ font-weight: bold;
 }
+@font-face {
+ font-family: "Franklin ITC Pro Bold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/4d30fb69-3c6d-4d57-b235-2988c4285ca5") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Franklin ITC Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/da09314a-cc28-4c97-b676-6a14a3bb12d7") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Franklin ITC Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/8486e76b-a9d8-42ab-87f2-efcd9b533bb4") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/23dfa752-55c6-4a75-b584-c361a98474e9") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/3764b2f7-4b10-4419-998b-d39c48433307") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/b1a2121b-49ba-4a04-b425-95096b68c2cc") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/c9bf7c28-38e1-4911-a14e-a0660a9cd668") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Black";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/05febdad-47ec-478b-b925-111855d64673") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Black";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/5e6a4730-a5f6-415d-858f-9a257c2d9060") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/26d85221-24d7-4c2d-a347-306a6937dae1") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/00fb794a-90b4-40b5-84c4-24f0870a6ca5") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/9768b217-6812-41f1-9c41-11865137b861") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/1bf52a26-3e9a-4e9c-8e0a-7ee55f860123") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/105055f3-f763-4e94-bffe-5f95efab31ed") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/bdf33ecb-a6a7-4557-bc78-26b64a166ce0") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro SemiBold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/dbb62856-d905-47d3-b0dc-bf7810a71df3") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro SemiBold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/b46290f5-b087-45b7-8f66-5961ba92b9c2") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+
 /*------------------------------------------------------------------
 2.	MAIN STYLES
 	General definitions
