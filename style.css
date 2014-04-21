@@ -166,18 +166,17 @@ div.post {
 	background: #fff;
 }
 div.post p {
-	position:relative;
-	right:50%;
-	text-align:center;
+	display: inline-block;
+    position: relative; 
+	right: -50%;
 }
 
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-	display: inline-block;
-    position: relative; 
-	right: -100%;
+	position: relative;
+	left: -50%;
 }
 
 .post strong { font-weight: 700 }
