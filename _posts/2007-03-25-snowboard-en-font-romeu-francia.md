@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Snowboard en Font Romeu (Francia)
+title: Video - Snowboard en Font Romeu (Francia)
 tags:
 - Viajes
 - Videos
