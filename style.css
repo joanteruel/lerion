@@ -170,7 +170,8 @@ div.post {
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-	margin: 10px -20px;
+    left: 50%;
+    margin-left: -320px; /* (width + padding)/2 */
 }
 
 .post strong { font-weight: 700 }
