@@ -164,7 +164,7 @@ div.box1 {
 	.box1 a {color: #000; }
 	.box1 a:hover {text-decoration: none;}
 	
-	div.box1 object, div.box1 iframe, div.box1 p img { 
+	div.box1 object, div.box1 iframe, div.box1 img { 
 		margin: 10px 0 0;
 	}
 
