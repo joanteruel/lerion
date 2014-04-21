@@ -167,14 +167,14 @@ div.post {
 }
 
 div.post p {
-	margin: 10px 20px 0;
+	padding: 10px 20px 0;
 }
 
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
-div.post object, div.post iframe, div.post p img { 
-	margin: 10px 0px 0;
+div.post object, div.post iframe, div.post img { 
+	margin: 10px -20px 0;
 }
 
 .post strong { font-weight: 700 }
