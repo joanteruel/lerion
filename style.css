@@ -218,7 +218,10 @@ div.box1 {
 		div.box1 ul.left-list li a, div.box1 ul.right-list li a, div.box1 ul.list3 li a { color: #dadada }
 
 
-.txt0 { color: #888 }
+.txt0 {
+	color: #888;
+	font-size: 0.9em;
+}
 
 .archive a:hover {
 	text-decoration: none;
