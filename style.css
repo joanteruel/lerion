@@ -156,7 +156,6 @@ h3#titles {
 
 
 div.box1 {
-	border-right: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
 	margin: 0 0 6px;
 	padding: 10px 20px 5px;
 	background: #fff;
@@ -194,13 +193,6 @@ div.post h3 a {
 div.post h3 {
 	margin-top: 0px;
 }
-
-.alignright { padding: 5px 10px;}
-.alignleft { padding: 5px 10px;}
-
-.box1 { padding: 10px 0 0 0;}
-.box1 a {color: #000; }
-.box1 a:hover {text-decoration: none;}
 
 #more a {
 	background-color: #eee;
