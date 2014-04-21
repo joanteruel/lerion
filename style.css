@@ -166,14 +166,11 @@ div.post {
 	background: #fff;
 }
 
-div.post p {
-}
-
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-	padding: 10px -20px 0 -20px;
+	padding: 10px -20px 0;
     display: block;
     margin-left: auto;
     margin-right: auto;
