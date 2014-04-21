@@ -20,4 +20,4 @@ La carrera fue bastante épica; éramos un equipo de cuatro y cada uno hicimos u
 
 Dejo el reportaje de 25 minutos que realizó la televisión de Catalunya sobre la carrera. En él aparecemos en algunos momentos, espero que no me lo hagan quitar.
 
-<object type="application/x-shockwave-flash" width="500" height="295" data="http://vimeo.com/moogaloop.swf?clip_id=5585002&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=679AF1">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5585002&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=679AF1" /></object>
+<iframe src="http://player.vimeo.com/video/5585002?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" width="500" height="377" frameborder="0"></iframe>
