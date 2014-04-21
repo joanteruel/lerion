@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Una vuelta por la Apple Shop de Barcelona
+title: Video - Una vuelta por la Apple Shop de Barcelona
 tags:
 - Ordenadores
 status: publish
