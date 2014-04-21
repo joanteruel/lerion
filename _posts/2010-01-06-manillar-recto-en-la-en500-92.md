@@ -16,4 +16,4 @@ Después de la <a href="http://blog.lerion.com/?p=39">restauración de la Vulcan
 Ahora la moto tiene que durar otros cinco años más hasta la siguiente actualización, donde tendrá unos espléndidos 23 años.  Espero que aguante, contando con que actualmente hace unos 30 km diarios.
 
 Pinchando en la imagen se accede al álbum de fotos de la moto.
-<br <a href="http://www.flickr.com/photos/lerion/sets/72157623027989679/detail/"/><img src="http://farm3.static.flickr.com/2721/4250589903_8f45edd4e0.jpg" alt="Vulcan 500" />
+<br <a href="http://www.flickr.com/photos/lerion/sets/72157623027989679/detail/"/><img src="http://farm3.static.flickr.com/2721/4250589903_8f45edd4e0_z.jpg" alt="Vulcan 500" />
