@@ -152,19 +152,19 @@ h3#titles {
 
 
 div.box1 {
-	margin: 0 0 6px;
+	margin: 0 20px 6px;
 	padding: 10px auto 5px;
 	background: #fff;
 }
 
 	div.box1 p {
-		margin: 10px 20px 0;
+		margin: 10px 0 0;
 	}
 
 	.box1 a {color: #000; }
 	.box1 a:hover {text-decoration: none;}
 	
-	div.box1 object, div.box1 iframe, div.box1 img { 
+	div.box1 object, div.box1 iframe, div.box1 p img { 
 		margin: 10px 0 0;
 	}
 
