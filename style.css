@@ -168,7 +168,7 @@ div.post {
 div.imgcenter {
 	display: inline-block;
     position: relative; 
-	right: -50%;
+	right: -100%;
 }
 
 .post a {color: #000; }
@@ -176,7 +176,7 @@ div.imgcenter {
 
 div.post object, div.post iframe, div.post img { 
 	position: relative;
-	left: -50%;
+	left: -100%;
 }
 
 .post strong { font-weight: 700 }
