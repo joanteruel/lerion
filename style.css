@@ -170,7 +170,9 @@ div.post {
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-	margin: 10px -20px 0;
+    position: absolute;
+    top: 10; bottom: 0; left: -20; right: -20;
+    margin: auto;
 }
 
 .post strong { font-weight: 700 }
