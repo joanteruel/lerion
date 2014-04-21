@@ -6,4 +6,5 @@ category_dir: /
 url: http://lerion.com
 markdown: rdiscount
 permalink: /posts/:year-:month-:day-:title.html
+exclude: [images_posts]
 limit_posts: 0
