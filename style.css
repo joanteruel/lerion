@@ -91,13 +91,13 @@ blockquote {
 
 #wrap {
 	margin: 0 auto;
-	width: 640px;
+	width: 800px;
 	padding: 30px;
 }
 
 	#header {
 		height: 115px;
-		width: 640px;
+		width: 800px;
 	}
 		#logo { margin: 0;
 			font:normal bold 20px/20px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
@@ -120,7 +120,7 @@ blockquote {
 		}
 			
 	#content {
-		width: 640px;
+		width: 800px;
 		margin-bottom: 25px
 	}
 	
@@ -138,7 +138,7 @@ blockquote {
 	
 	
 #footer {
-	width: 640px;
+	width: 800px;
 	height: 20px;
 	text-align: center;
 }
@@ -231,8 +231,8 @@ Widgets
 
 /* Para videos en HD */
 object, iframe {
-	width: 640px;
-	height: 360px;
+	width: 800px;
+	height: 450px;
 }
 
 /* Para videos en SD 4:3 */
