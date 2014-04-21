@@ -173,6 +173,7 @@ div.post object, div.post iframe, div.post img {
 	display: inline-block;
     position: relative; 
 	left: -50%;
+	right: -50%;
 }
 
 .post strong { font-weight: 700 }
