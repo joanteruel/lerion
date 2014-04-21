@@ -128,7 +128,7 @@ blockquote {
 	}
 	
 	#blog object, #blog iframe, #blog img { 
-		margin: 10px 0 0 -20px;
+		margin: 10px 0 0 0;
 		padding: 0 0 0 -20px; 
 	}
 	
