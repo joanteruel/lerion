@@ -5,7 +5,6 @@ title: Home
 <!-- Show last post here -->
 {% for post in site.posts limit: 1 %}
 
-<div class="box1">
 <div class="post">
 	
 	<h3>{{ post.title }}</h3>
@@ -13,7 +12,6 @@ title: Home
 
 	{{ post.content }}
 
-</div>
 </div>
 
 {% endfor %}
