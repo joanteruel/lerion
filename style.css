@@ -220,7 +220,10 @@ div.box1 {
 
 .txt0 { color: #888 }
 
-.archive a { color: #000;}
+.archive a { 
+	color: #000;
+	font-size: 18px;
+}
 .archive a:hover {
 	text-decoration: none;
 	background-color: #cdcdcd;
