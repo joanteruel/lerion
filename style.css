@@ -16,6 +16,10 @@ License: GNU/GPL Version 2 or later. http://www.gnu.org/licenses/gpl.html
 * { font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
 body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }
 
+@font-face {
+	font-family: "Georgia Pro";
+	src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/3764b2f7-4b10-4419-998b-d39c48433307") format("truetype");
+}
 /*------------------------------------------------------------------
 2.	MAIN STYLES
 	General definitions
@@ -24,7 +28,7 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 body {
 	background: #eeeeee;
 	color: #000;
-	font-family: Helvetica, 'Open Sans', sans-serif;
+	font-family: "Georgia Pro", Helvetica, 'Open Sans', sans-serif;
 	font-size: 18px;
 	line-height: 28px;
 }
