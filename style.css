@@ -24,10 +24,9 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 body {
 	background: #eeeeee;
 	color: #000;
-	font-family: 'Open Sans', sans-serif;
+	font-family: Helvetica, 'Open Sans', sans-serif;
 	font-size: 20px;
-	line-height: 22px;
-	font-weight: 400;
+	line-height: 30px;
 	text-shadow: 0px 0px 1px #ccc;
 }
 
