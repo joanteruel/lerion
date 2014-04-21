@@ -61,11 +61,11 @@ a:hover, a:active, a.active {
 }
 
 /* Lists */
-#content div.box1 ul {
+#content div.post ul {
 	padding:10px 10px 10px 20px;
 	list-style:decimal;
 }
-#content div.box1 ol {
+#content div.post ol {
 	padding:10px 10px 10px 20px;
 	list-style-type:none;
 }
