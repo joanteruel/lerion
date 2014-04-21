@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Vídeo de Londres
+title: Video - Vídeo de Londres
 tags:
 - Viajes
 - Videos
