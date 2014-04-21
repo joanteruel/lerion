@@ -165,7 +165,7 @@ div.post {
 	padding: 20px 20px;
 	background: #fff;
 }
-div.post p {
+div.imgcenter {
 	display: inline-block;
     position: relative; 
 	right: -50%;
