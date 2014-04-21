@@ -149,25 +149,6 @@ h3#titles {
 	font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 }
 
-
-
-div.box1 {
-	margin: 0 0 6px;
-	padding: 10px 20px 5px;
-	background: #fff;
-}
-
-	div.box1 p {
-		margin: 10px 0 0;
-	}
-
-	.box1 a {color: #000; }
-	.box1 a:hover {text-decoration: none;}
-	
-	div.box1 object, div.box1 iframe, div.box1 img { 
-		margin: 10px 0 0;
-	}
-
 .txt0 {
 	color: #888;
 	font-size: 0.9em;
@@ -181,9 +162,21 @@ div.box1 {
 h2.title { color: #fff; margin: 0 0 14px }
 
 div.post {
-	padding: 5px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
 	background: #fff;
 }
+
+div.post p {
+	margin: 10px 0 0;
+}
+
+.post a {color: #000; }
+.post a:hover {text-decoration: none;}
+
+div.post object, div.post iframe, div.post img { 
+	margin: 10px 0 0;
+}
+
 .post strong { font-weight: 700 }
 .post em { font-style: italic }
 .post img {
