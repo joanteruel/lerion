@@ -169,7 +169,7 @@ div.post {
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
-div.post object, div.post iframe, div.post img { 
+div.post object, div.post iframe, div.post p img { 
 	margin: 10px -20px 0;
     display: block;
     margin-left: auto;
