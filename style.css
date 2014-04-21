@@ -162,12 +162,11 @@ h3#titles {
 h2.title { color: #fff; margin: 0 0 14px }
 
 div.post {
-	padding: 10px 0px 10px 0px;
+	padding: 10px 20px 10px;
 	background: #fff;
 }
 
 div.post p {
-	padding: 10px 20px 0;
 }
 
 .post a {color: #000; }
