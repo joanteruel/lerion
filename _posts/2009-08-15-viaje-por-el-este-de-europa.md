@@ -14,8 +14,6 @@ Aprovechando la invitación a la boda de un amigo en Myślenice, hicimos un viaj
 
 Haz click en la imagen para acceder al álbum de fotos:
 
-<<<<<<< HEAD
 <a href="http://www.flickr.com/photos/lerion/sets/72157622032841160/"><img alt="" src="https://farm3.staticflickr.com/2564/3818473735_1709b3e42b_z.jpg" class="alignnone" /></a>
-=======
-<a href="http://www.flickr.com/photos/lerion/sets/72157622032841160/"><img alt="" src="http://farm3.static.flickr.com/2564/3818473735_1709b3e42b_z.jpg" class="alignnone" width="500" height="281" /></a>
->>>>>>> FETCH_HEAD
+
+
