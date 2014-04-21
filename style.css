@@ -164,15 +164,15 @@ h2.title { color: #fff; margin: 0 0 14px }
 div.post {
 	padding: 20px 20px;
 	background: #fff;
+	width: 640px;
 }
 
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-    position: relative;
-    top: 10px; bottom: 0px; left: -20px; right: -20px;
-    margin: auto;
+    margin: 10px 0 0 0;
+	left: 50%;
 }
 
 .post strong { font-weight: 700 }
