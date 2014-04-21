@@ -173,8 +173,8 @@ div.post p {
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
-div.post object, div.post iframe, div.post img { 
-	margin: 10px 0 0;
+div.post object, div.post iframe, div.post p img { 
+	margin: 10px 0px 0;
 }
 
 .post strong { font-weight: 700 }
