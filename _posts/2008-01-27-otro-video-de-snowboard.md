@@ -12,7 +12,7 @@ meta:
 ---
 Primeras bajadas de la temporada 2008.
 
-<object type="application/x-shockwave-flash" width="500" height="377" data="http://vimeo.com/moogaloop.swf?clip_id=640122&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=679AF1">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6401226&amp;server=vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=679AF1" /></object>
+<iframe src="http://player.vimeo.com/video/6401226?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" width="500" height="377" frameborder="0"></iframe>
 
 También podéis descargar el video en HD <a href="http://www.vimeo.com/download/video:28819499">aquí</a> (82 megas).
 
