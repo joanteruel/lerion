@@ -6,7 +6,6 @@ title: Home
 {% for post in site.posts limit: 1 %}
 
 <div class="post">
-	<div class="imgcenter">
 	
 	<h3>{{ post.title }}</h3>
 	<span class="txt0">// {{post.date|date:"%B %d, %Y"}} // by {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>

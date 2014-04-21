@@ -165,18 +165,12 @@ div.post {
 	padding: 20px 20px;
 	background: #fff;
 }
-div.imgcenter {
-	display: inline-block;
-    position: relative; 
-	right: -100%;
-}
 
 .post a {color: #000; }
 .post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe, div.post img { 
-	position: relative;
-	left: -100%;
+	margin: 10px -20px;
 }
 
 .post strong { font-weight: 700 }
