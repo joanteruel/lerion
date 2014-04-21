@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: USA 2012 - Washington & Philadelphia
+title: Video - USA 2012 Washington & Philadelphia
 tags:
 - video
 - Videos

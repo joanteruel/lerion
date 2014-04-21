@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Vídeo de París
+title: Video - Vídeo de París
 tags:
 - Viajes
 - Videos

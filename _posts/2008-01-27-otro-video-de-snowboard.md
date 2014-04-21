@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Otro video de snowboard
+title: Video - Otro video de snowboard
 tags:
 - Viajes
 status: publish
@@ -18,4 +18,3 @@ También podéis descargar el video en HD <a href="http://www.vimeo.com/download
 
 Más fotos: <a href="http://www.flickr.com/photos/lerion/">Flickr de Lerion</a>
 Más información: <a href="http://www.lespyrenees.net/fr/station,16,Font-Romeu-Pyrenees-2000.html">Font Romeu</a>
-
