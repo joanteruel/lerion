@@ -169,7 +169,7 @@ div.box1, ol.commentlist li, form#comments { background: #fff; }
 
 div.box1 {
 	border-right: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
-	margin: 0 0 6px;
+	margin: 0 0 10px;
 	padding: 10px 20px 5px;
 }
 
@@ -274,6 +274,7 @@ div.box1 ul.list2 li, div.list3 li {
 	text-shadow: 1px 1px 1px #ccc;
 	color: #000;
 	border: 1px solid #cdcdcd;
+	margin-top: 5px;
 }
 #more a:hover {
 	text-decoration: none;
