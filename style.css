@@ -153,7 +153,7 @@ h3#titles {
 	font:normal bold 30px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 }
 
-div.box1, ol.commentlist li, form#comments { background: #fff; }
+
 
 div.box1 {
 	border-right: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
@@ -161,61 +161,9 @@ div.box1 {
 	padding: 10px 20px 5px;
 }
 
-	div.box1 ul, div.box1 ul.blog-list li { margin: 0 }
-
-		div.box1 ul.blog-list li {
-			border-bottom: 1px dashed #3f566e;
-			padding: 0 0 15px;
-		}
-
 	div.box1 p {
 		margin: 10px 0 0;
 	}
-		
-	div.box1 p.link {
-		text-align: right;
-		margin: 0 0 15px;
-	}
-	
-	div.box1 ul.left-list {
-		float: left;
-		width: 230px;
-		padding: 10px 0 10px 10px;
-	}
-
-	div.box1 ul.right-list {
-		float: right;
-		width: 230px;
-		padding: 10px 10px 10px 0;
-	}
-	
-		div.box1 ul.left-list li, div.box1 ul.right-list li, div.box1 ul.list3 li {
-			line-height: 13px;
-			border-top: 1px dashed #3f566e;
-			padding: 8px 0;
-		}
-		
-		div.box1 ul.list3 {
-			margin: 15px 0 0;
-		}
-
-		div.box1 ul.list3 li {
-			padding: 15px 0;
-		}
-		
-		div.box1 ul.list3 li ul {
-			margin: 0;
-			border: none !Important;
-		}
-
-		div.box1 ul.list3 li ul li {
-			margin: 0 0 0 15px;
-			padding: 15px 0 0;
-			border: none !Important;
-		}
-		
-		div.box1 ul.left-list li a, div.box1 ul.right-list li a, div.box1 ul.list3 li a { color: #dadada }
-
 
 .txt0 {
 	color: #888;
@@ -252,12 +200,6 @@ div.post h3 {
 .box1 { padding: 10px 0 0 0;}
 .box1 a {color: #000; }
 .box1 a:hover {text-decoration: none;}
-
-div.box1 ul.list2 li, div.list3 li {
-	line-height: 13px;
-	border-bottom: 1px dashed #777;
-	padding: 8px 0;
-}
 
 #more a {
 	background-color: #eee;
