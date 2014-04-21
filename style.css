@@ -192,11 +192,11 @@ div.post h3 {
 }
 
 #more a {
-	background-color: #eee;
+	background-color: #cecece;
 	float: right;
 	padding: 3px 8px;
 	color: #000;
-	border: 1px solid #666;
+	border: 0px solid #666;
 	margin-top: 10px;
 }
 #more a:hover {
