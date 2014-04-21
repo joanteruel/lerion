@@ -192,7 +192,7 @@ div.post h3 {
 }
 
 #more a {
-	background-color: #cecece;
+	background-color: #ccc;
 	float: right;
 	padding: 3px 8px;
 	color: #000;
@@ -201,7 +201,7 @@ div.post h3 {
 }
 #more a:hover {
 	text-decoration: none;
-	background-color: #ddd;
+	background-color: #cdcdcd;
 }
 #more .in {
 	position : relative;
