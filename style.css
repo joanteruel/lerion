@@ -158,11 +158,15 @@ div.box1 {
 }
 
 	div.box1 p {
-		margin: 10px 0 0;
+		margin: 10px 20px 0;
 	}
 
 	.box1 a {color: #000; }
 	.box1 a:hover {text-decoration: none;}
+	
+	div.box1 object, div.box1 iframe, div.box1 img { 
+		margin: 10px 0 0;
+	}
 
 .txt0 {
 	color: #888;
