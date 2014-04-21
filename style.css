@@ -24,7 +24,7 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 body {
 	background: #eeeeee;
 	color: #000;
-	font-family: "Helvetica Neue", Helvetica, 'Open Sans', sans-serif;
+	font-family: Helvetica, 'Open Sans', sans-serif;
 	font-size: 18px;
 	line-height: 28px;
 }
@@ -42,7 +42,7 @@ h3 { font-size:24px; }
 
 h1, h2, h3 {
 	color: #000;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	margin-top: 15px;
 }
 
@@ -111,7 +111,7 @@ blockquote {
 			text-align: right;
 			width: 280px;
 			padding-left: 360px;
-			margin-top: -55px;
+			margin-top: -60px;
 		}
 			
 	#content {
@@ -218,13 +218,10 @@ div.box1 {
 		div.box1 ul.left-list li a, div.box1 ul.right-list li a, div.box1 ul.list3 li a { color: #dadada }
 
 
-.txt0, .continue { color: #888; font-size: 0.9em;}
-.txt0 a { text-decoration: none; color: #2e5dab;}
-.txt0 a:hover { 
-	text-decoration: underline;
-}
-.archivo a { color: #000;}
-.archivo a:hover {
+.txt0 { color: #888 }
+
+.archive a { color: #000;}
+.archive a:hover {
 	text-decoration: none;
 	background-color: #cdcdcd;
 }
@@ -246,9 +243,9 @@ div.post h3 {
 .alignright { padding: 5px 10px;}
 .alignleft { padding: 5px 10px;}
 
-.box1 .navigation { padding: 10px 0 0 0;}
-.box1 .navigation a {color: #000; font-size: 25px;}
-.box1 .navigation a:hover {text-decoration: none;}
+.box1 { padding: 10px 0 0 0;}
+.box1 a {color: #000; font-size: 25px;}
+.box1 a:hover {text-decoration: none;}
 
 div.box1 ul.list2 li, div.list3 li {
 	line-height: 13px;
