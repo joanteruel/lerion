@@ -480,6 +480,7 @@ h3#titles {
 .txt0 {
 	color: #888;
 	font-size: 0.9em;
+	margin-bottom: 2em;
 }
 
 .archive a:hover {
@@ -494,9 +495,6 @@ div.post {
 	background: #fff;
 	margin-bottom: 10px;
 }
-
-.post a {color: #000; }
-.post a:hover {text-decoration: none;}
 
 div.post object, div.post iframe { 
 	margin: 10px 0 0 -20px;
