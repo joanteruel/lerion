@@ -127,6 +127,115 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 
 @font-face {
  font-family: "Franklin ITC Pro Bold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/0b12aa52-bb8a-421b-a962-e81d85d29404");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Franklin ITC Pro Bold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/0ecb68ae-113d-4639-be08-4e7578b8fc06");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Franklin ITC Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/18038f3c-e3a9-4a58-b8ee-2e0d2f4dcb16");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Franklin ITC Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/a3142225-48d0-4455-92fe-20d35461beb0");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/ae9dff94-e0b6-4987-a322-bcc66810e1bc");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/896c874c-a103-4571-834c-37d16381ca79");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/322f298a-3e6a-47f2-945c-49549bc4819d");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/cbe51f88-308e-470f-8e5f-e8f825ca2583");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Black";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/090e43fd-f27c-4a3a-872f-10162bef9bca");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Black";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/9c7dc045-d322-4e59-aebe-2c6bacb73287");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/3d1369f9-b948-4da6-9668-3f9b8acb22cc");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/da08183c-ccb6-479e-b185-1582497d19aa");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/422ff1ca-2551-4efb-b6b5-0273723032bf");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/ce648256-919b-42af-a8de-3132902a90e1");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Georgia Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/7afcd7b2-5168-4d12-882a-63ddb19a5b05");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro Light";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/263bca7c-adef-4957-9204-bfd508389e4f");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro SemiBold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/1ca8e7d7-006f-4f3c-b48d-82618b0d07a1");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Georgia Pro SemiBold";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/2/34070cd1-2dd1-482e-b5a8-982bcab37d2d");
+ font-style: italic;
+ font-weight: normal;
+}
+
+@font-face {
+ font-family: "Franklin ITC Pro Bold";
  src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/3/eaaadd6b-b1b9-43c8-9cbd-35a67dc05d46") format("woff");
  font-style: normal;
  font-weight: bold;
