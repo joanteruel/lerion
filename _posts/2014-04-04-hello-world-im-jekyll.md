@@ -11,3 +11,4 @@ Creating your own HTML layouts is simple as Jekyll mostly stays out of your way 
 <br />
 **Lerion is now a Jekyll "ecosystem"**. If you want to know more about Jekyll visit [this site](http://cobyism.com/jekyll/docs/home/).
 <br />
+<br />
