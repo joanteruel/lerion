@@ -352,8 +352,8 @@ body {
 	background: #eeeeee;
 	color: #000;
 	font-family: "Georgia Pro", Helvetica, 'Open Sans', sans-serif;
-	font-size: 23px;
-	line-height: 31px;
+	font-size: 19px;
+	line-height: 29px;
 }
 
 
@@ -437,8 +437,8 @@ blockquote {
 
 		div#hi {
 			text-align: right;
-			width: 400px;
-			padding-left: 400px;
+			width: 300px;
+			padding-left: 340px;
 			margin-top: -60px;
 		}
 			
