@@ -374,6 +374,11 @@ h1, h2, h3 {
 	letter-spacing: -1px;
 }
 
+h3 a {
+	color: #000;
+	text-decoration: none;
+}
+
 h3 a:hover {
 	text-decoration: none;
 	background-color: #cdcdcd;
