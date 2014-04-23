@@ -505,7 +505,7 @@ div.post object, div.post iframe {
 }
 div.post img {
 	 display: block;
-	 margin: 10px auto 0px;
+	 margin: 10px auto 10px;
 	 max-width: 600px;
 }
 
@@ -518,6 +518,7 @@ div.post h3 a {
 
 div.post h3 {
 	margin-top: 0px;
+	margin-bottom: 30px;
 }
 
 div.post p {
