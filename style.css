@@ -480,6 +480,7 @@ h3#titles {
 .txt0 {
 	color: #888;
 	font-size: 0.9em;
+	margin-bottom: 10px;
 }
 
 .archive a:hover {
@@ -519,7 +520,6 @@ div.post h3 {
 }
 
 div.post p {
-	margin-top: 0em;
 	margin-bottom: 1.6em;
 
 #more a {
