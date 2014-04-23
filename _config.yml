@@ -4,7 +4,7 @@ author: Joan and Jaume
 author_email: joanrafel at gmail
 category_dir: /
 url: http://lerion.com
-markdown: redcarpet
+markdown: maruku
 encoding: UTF-8
 charset: "UTF-8"
 permalink: /posts/:year-:month-:day-:title.html
