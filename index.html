@@ -8,7 +8,7 @@ title: Home
 <div class="post">
 	
 	<h3>{{ post.title }}</h3>
-	<span class="txt0">// {{post.date|date:"%B %d, %Y"}} // by {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
+	<h4>// {{post.date|date:"%B %d, %Y"}} // by {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</h4>
 
 	{{ post.content }}
 
