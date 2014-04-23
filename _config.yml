@@ -4,6 +4,6 @@ author: Joan and Jaume
 author_email: joanrafel at gmail
 category_dir: /
 url: http://lerion.com
-markdown: rdiscount
+markdown: redcarpet
 permalink: /posts/:year-:month-:day-:title.html
 limit_posts: 0
