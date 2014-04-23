@@ -524,6 +524,10 @@ div.post p {
 	margin-bottom: 1.4em;
 }
 
+div.post ul {
+	top: -10px;
+}
+
 #more a {
 	background-color: #dedede;
 	float: right;
