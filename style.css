@@ -351,7 +351,7 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 body {
 	background: #eeeeee;
 	color: #000;
-	font-family: "Georgia Pro", Helvetica, 'Open Sans', sans-serif;
+	font-family: Helvetica, 'Open Sans', sans-serif;
 	font-size: 19px;
 	line-height: 29px;
 }
