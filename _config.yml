@@ -5,7 +5,5 @@ author_email: joanrafel at gmail
 category_dir: /
 url: http://lerion.com
 markdown: redcarpet
-encoding: UTF-8
-charset: "UTF-8"
 permalink: /posts/:year-:month-:day-:title.html
 limit_posts: 0
