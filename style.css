@@ -477,11 +477,6 @@ h3#titles {
 	font:normal bold 36px/30px "Helvetica Neue", Helvetica, Arial, sans-serif; color: #000;
 }
 
-.txt0 {
-	color: #888;
-	font-size: 0.9em;
-}
-
 .archive a {
 	color: #000;
 	text-decoration: none;
@@ -521,6 +516,8 @@ div.post h3 {
 }
 
 div.post h4 {
+	color: #888;
+	font-size: 0.9em;
 	margin-bottom: 20px;
 }
 
