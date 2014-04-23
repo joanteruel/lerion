@@ -518,7 +518,10 @@ div.post h3 a {
 
 div.post h3 {
 	margin-top: 0px;
-	margin-bottom: 30px;
+}
+
+div.post h4 {
+	margin-bottom: 20px;
 }
 
 div.post p {
