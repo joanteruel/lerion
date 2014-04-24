@@ -486,6 +486,11 @@ h3#titles {
 	background-color: #cdcdcd;
 }
 
+.txt0 h3 {
+	color: #888;
+	font-size: 0.8em;
+}
+
 h2.title { color: #fff; margin: 0 0 14px }
 
 div.post {
