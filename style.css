@@ -55,7 +55,7 @@ h3 a:hover {
 /* Anchors */
 a, a:link, a:visited {
 	color: #2e5dab;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover, a:active, a.active {
 	text-decoration: underline;
