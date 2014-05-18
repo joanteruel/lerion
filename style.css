@@ -92,7 +92,7 @@ blockquote {
 }
 
 	#header {
-		height: 125px;
+		height:;
 		width: 640px;
 	}
 		#logo { margin: 0;
@@ -109,10 +109,6 @@ blockquote {
 			}
 
 		div#hi {
-			text-align: right;
-			width: 300px;
-			padding-left: 340px;
-			margin-top: -60px;
 		}
 			
 	#content {
