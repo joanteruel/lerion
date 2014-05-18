@@ -111,7 +111,7 @@ blockquote {
 			}
 			#logo a:hover a:active, a.active {
 				text-decoration: none;
-				background-color: none;
+				background-color: transparent;
 			}
 
 			
