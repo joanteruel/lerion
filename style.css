@@ -184,11 +184,11 @@ div.post img {
 
 div.post h3 a {
 	color: #000;
-	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
 }
 
 div.post h3 {
 	margin-top: 0px;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
 }
 
 div.post h4 {
