@@ -96,13 +96,16 @@ blockquote {
 		width: 640px;
 	}
 		#logo { margin: 0;
-			font: normal bold 50px/50px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+			font: normal bold 50px/50px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+			color: #000;
 			letter-spacing:-2px;
 			top: 46px;
 		}
 
 			#logo a {
-				font: normal bold 120px/120px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+				font: normal bold 120px/120px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+				color: #000;
+				text-decoration: none;
 			}
 			#logo a:hover {
 				text-decoration: none;
