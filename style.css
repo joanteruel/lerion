@@ -59,7 +59,7 @@ a, a:link, a:visited {
 }
 a:hover, a:active, a.active {
 	background-color: #2e5dab;
-	text-decoration: underline;
+	text-decoration: none;
 	color: #fff;
 }
 
