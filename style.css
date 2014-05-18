@@ -48,7 +48,7 @@ h1, h2, h3 {
 }
 
 h3 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	background-color: #cdcdcd;
 }
 
@@ -109,6 +109,7 @@ blockquote {
 			}
 			#logo a:hover, a:active, a.active {
 				text-decoration: none;
+				background-color: none;
 			}
 
 			
