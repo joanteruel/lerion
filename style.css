@@ -14,7 +14,7 @@ License: GNU/GPL Version 2 or later. http://www.gnu.org/licenses/gpl.html
 ------------------------------------------------------------------*/
 
 * { font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
-body { background: #fff; color: #000; font-size: 120%; min-height: 100%; text-align: left; position: relative; }
+body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-align: left; position: relative; }
 
 /*------------------------------------------------------------------
 2.	MAIN STYLES
@@ -55,10 +55,12 @@ h3 a:hover {
 /* Anchors */
 a, a:link, a:visited {
 	color: #2e5dab;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover, a:active, a.active {
-	text-decoration: underline;
+	color: #fff;
+	text-decoration: none;
+	background-color: #cdcdcd;
 }
 
 /* Lists */
