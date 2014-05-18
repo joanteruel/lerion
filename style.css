@@ -38,7 +38,7 @@ em { color: #d9e3ea }
 
 h1 { font-size:2em; }
 h2 { font-size:1.8em; }
-h3 { font-size:2em; }
+h3 { font-size:1.6em; }
 
 h1, h2, h3 {
 	color: #000;
@@ -150,7 +150,7 @@ blockquote {
 h3#titles {
 	width: 138px; height: 34px;
 	margin: 0 0 10px 0px;
-	font: bold "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
 }
 
 .archive a {
