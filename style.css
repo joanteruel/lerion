@@ -96,13 +96,13 @@ blockquote {
 		width: 640px;
 	}
 		#logo { margin: 0;
-			font: normal bold 30px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+			font: normal bold 40px/40px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
 			letter-spacing:-1px;
 			top: 46px;
 		}
 
 			#logo a {
-				font: normal bold 75px/67px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+				font: normal bold 90px/80px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
 			}
 			#logo a:hover {
 				text-decoration: none;
@@ -188,12 +188,13 @@ div.post h3 a {
 
 div.post h3 {
 	margin-top: 0px;
+	margin-bottom: 5px;
 	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
 }
 
 div.post h4 {
 	color: #888;
-	font-size: 0.95em;
+	font-size: ;
 	margin-bottom: 20px;
 }
 
