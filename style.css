@@ -105,6 +105,7 @@ blockquote {
 
 			#logo a {
 				font: normal bold 120px/120px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+				text-decoration: none;
 			}
 			#logo a:hover {
 				text-decoration: none;
