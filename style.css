@@ -109,8 +109,9 @@ blockquote {
 				color: #000;
 				text-decoration: none;
 			}
-			#logo a:hover {
+			#logo a:hover a:active, a.active {
 				text-decoration: none;
+				background-color: none;
 			}
 
 			
