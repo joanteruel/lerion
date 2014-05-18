@@ -160,7 +160,8 @@ h3#titles {
 
 .archive a:hover {
 	text-decoration: none;
-	background-color: #cdcdcd;
+	background-color: #2e5dab;
+	color: #fff;
 }
 
 .txt0 {
