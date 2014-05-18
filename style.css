@@ -25,7 +25,7 @@ body {
 	background: #eeeeee;
 	color: #000;
 	font-family: Helvetica, calibri, 'Open Sans', sans-serif;
-	font-size: 19px;
+	font-size: 100%;
 	line-height: 29px;
 }
 
@@ -36,9 +36,9 @@ em { color: #d9e3ea }
 
 /* Headlines */
 
-h1 { font-size:32px; }
-h2 { font-size:29px; }
-h3 { font-size:26px; }
+h1 { font-size:2em; }
+h2 { font-size:1.8em; }
+h3 { font-size:1.6em; }
 
 h1, h2, h3 {
 	color: #000;
@@ -227,7 +227,7 @@ div.post ul {
 	top: -1px;
 }
 #more .plus {
-	font-size: 22px;
+	font-size: 1.4em;
 	font-weight: bold;
 }
 #more img{
