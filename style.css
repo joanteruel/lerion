@@ -48,7 +48,7 @@ h1, h2, h3 {
 }
 
 h3 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	background-color: #cdcdcd;
 }
 
@@ -58,9 +58,7 @@ a, a:link, a:visited {
 	text-decoration: none;
 }
 a:hover, a:active, a.active {
-	color: #fff;
-	text-decoration: none;
-	background-color: #2e5dab;
+	text-decoration: underline;
 }
 
 /* Lists */
@@ -105,11 +103,9 @@ blockquote {
 
 			#logo a {
 				font: normal bold 120px/120px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
-				text-decoration: none;
 			}
-			#logo a:hover, a:active, a.active {
+			#logo a:hover {
 				text-decoration: none;
-				background-color: none;
 			}
 
 			
