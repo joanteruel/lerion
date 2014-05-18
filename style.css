@@ -216,6 +216,7 @@ div.post ul {
 	color: #000;
 	border: 0px solid #666;
 	margin-top: 10px;
+	text-decoration: none;
 }
 #more a:hover {
 	text-decoration: none;
