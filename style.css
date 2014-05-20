@@ -20,13 +20,22 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 2.	MAIN STYLES
 	General definitions
 --------------------------------------------------------------------*/
-	
+
+@media screen and (max-device-width : 320px)
+{
+  body
+  {
+    font-size: 1.4em;
+    line-height: 1.4em;
+  }
+}
+
 body {
 	background: #eeeeee;
 	color: #000;
 	font-family: Helvetica, calibri, 'Open Sans', sans-serif;
-	font-size: 1.4em;
-	line-height: 1.4em;
+	font-size: 1.2em;
+	line-height: 1.2em;
 }
 
 
