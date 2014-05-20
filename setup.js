@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 	$('#basicuse').jflickrfeed({
-		limit: 2,
+		limit: 1,
 		qstrings: {
 			id: '87792318@N00'
 		},
