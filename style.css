@@ -134,11 +134,11 @@ blockquote {
 		margin-bottom: 80px;
 	}
 
-	.thumbs { margin: 0; padding: 0; overflow: hidden; }
-	.thumbs li { list-style: none; float: left;}
+	.thumbs { }
+	.thumbs li { }
 	.thumbs li a { }
-	.thumbs li img { display: block; }
-	.thumbs li a img { border: none;}
+	.thumbs li img { }
+	.thumbs li a img { }
 
 	#videos {
 		margin-bottom: 100px;		
