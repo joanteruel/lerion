@@ -5,7 +5,7 @@ $(document).ready(function(){
 		qstrings: {
 			id: '87792318@N00'
 		},
-		itemTemplate: '<li><a href="{{image_z}}"><img src="{{image_z}}" alt="{{title}}" /></a></li>'
+		itemTemplate: '<li><img src="{{image_z}}" alt="" /></li>'
 	});
 	
 	$('#nocallback').jflickrfeed({
