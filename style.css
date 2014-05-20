@@ -51,7 +51,7 @@ h3 { font-size:1.6em; }
 
 h1, h2, h3 {
 	color: #000;
-	font-family: Helvetica, calibri, Arial, sans-serif;
+	font-family: Helvetica, arial, sans-serif;
 	margin-top: 15px;
 	letter-spacing: -1px;
 }
@@ -107,14 +107,14 @@ blockquote {
 		width: 640px;
 	}
 		#logo { margin: 0;
-			font: normal bold 50px/50px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+			font: normal bold 50px/50px "Helvetica Neue", Helvetica, arial, sans-serif;
 			color: #000;
 			letter-spacing:-2px;
 			top: 46px;
 		}
 
 			#logo a {
-				font: normal bold 120px/120px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+				font: normal bold 120px/120px "Helvetica Neue", Helvetica, arial, sans-serif;
 				color: #000;
 				text-decoration: none;
 				background-color: transparent;
@@ -160,7 +160,7 @@ blockquote {
 h3#titles {
 	width: 138px; height: 34px;
 	margin: 0 0 10px 0px;
-	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif; color: #000;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif; color: #000;
 }
 
 .archive a {
@@ -208,7 +208,7 @@ div.post h3 a {
 div.post h3 {
 	margin-top: 0px;
 	margin-bottom: 5px;
-	font:normal bold 36px/30px "Helvetica Neue", Helvetica, calibri, Arial, sans-serif;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif;
 	line-height: 1.2em;
 }
 
