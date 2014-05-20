@@ -135,7 +135,7 @@ blockquote {
 	}
 
 	.thumbs { }
-	.thumbs li { }
+	.thumbs li { list-style: none; }
 	.thumbs li a { }
 	.thumbs li img { }
 	.thumbs li a img { }
