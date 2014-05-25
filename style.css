@@ -28,8 +28,9 @@ body {
 }
 
 
-em { color: #d9e3ea }
+strong { font-style: bold; }
 
+em { font-style: italic }
 
 a, a:link, a:visited {
 	color: #2e5dab;
@@ -157,10 +158,6 @@ div.post h4 {
 div.post p {
 	margin-bottom: 1.4em;
 }
-
-div.post p strong { font-style: bold; }
-
-div.post em { font-style: italic }
 
 /* Objects */
 
