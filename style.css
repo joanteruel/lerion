@@ -184,7 +184,7 @@ div.post iframe {
 
 div.post ul {
 	list-style:none;
-	margin: 10px 1.4em 10px 0px;
+	margin: 10px auto 1.4em;
 }
 div.post ol {
 	list-style-type:none;
