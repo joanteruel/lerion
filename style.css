@@ -158,9 +158,9 @@ div.post p {
 	margin-bottom: 1.4em;
 }
 
-.post strong { font: bold; }
+div.post strong { font-style: bold; }
 
-.post em { font-style: italic }
+div.post em { font-style: italic }
 
 /* Objects */
 
