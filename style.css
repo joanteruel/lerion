@@ -28,7 +28,7 @@ body {
 }
 
 
-strong { font-style: bold; }
+strong { font-weight: bold; }
 
 em { font-style: italic }
 
