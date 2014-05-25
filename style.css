@@ -158,7 +158,7 @@ div.post p {
 	margin-bottom: 1.4em;
 }
 
-div.post strong { font-style: bold; }
+div.post p strong { font-style: bold; }
 
 div.post em { font-style: italic }
 
