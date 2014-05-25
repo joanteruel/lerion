@@ -21,15 +21,6 @@ body { background: #fff; color: #000; font-size: 100%; min-height: 100%; text-al
 	General definitions
 --------------------------------------------------------------------*/
 
-@media screen and (max-device-width : 320px)
-{
-  body
-  {
-    font-size: 1.4em;
-    line-height: 1.4em;
-  }
-}
-
 body {
 	background: #eeeeee;
 	color: #000;
@@ -39,16 +30,9 @@ body {
 }
 
 
-
 em { color: #d9e3ea }
 
 
-/* Headlines */
-
-
-
-
-/* Anchors */
 a, a:link, a:visited {
 	color: #2e5dab;
 	text-decoration: underline;
@@ -59,25 +43,10 @@ a:hover, a:active, a.active {
 	color: #fff;
 }
 
-/* Lists */
-#blog div.post ul {
-	list-style:decimal;
-}
-#blog div.post ol {
-	padding:10px 10px 10px 20px;
-	list-style-type:none;
-}
 
-blockquote {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	padding-left: 10px;
-	color: #666;
-	border-left: 1px solid #ccc;
-}
 
 /*-------------------------------
-2.b Base layout
+Base layout
 ---------------------------------
 [?] Mostly ID's. Classes & tags allowed.
 */
@@ -146,54 +115,15 @@ blockquote {
 
 
 /*-------------------------------
-2.d Elements, ID's & Classes // font: 12px/19px "lucida grande", lucida, tahoma, helvetica, arial, sans-serif;
+Post
 -------------------------------*/
 
-h3#titles {
-	width: 138px; height: 34px;
-	margin: 0 0 10px 0px;
-	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif; color: #000;
-	letter-spacing: -1px;
-}
-
-.archive a {
-}
-
-.archive a:hover {
-	text-decoration: none;
-	background-color: #2e5dab;
-	color: #fff;
-}
-
-.txt0 {
-	color: #888;
-}
-
-h2.title { color: #fff; margin: 0 0 14px }
 
 div.post {
 	padding: 20px 20px 10px;
 	background: #fff;
 	margin-bottom: 10px;
 }
-
-div.post object { 
-	margin: 0 0 0 -20px;
-}
-
-div.post iframe { 
-	margin: 0 0 0 -20px;
-}
-
-div.post img {
-	 display: block;
-	 margin: 10px auto 10px;
-	 max-width: 600px;
-}
-
-.post strong { font-weight: 700 }
-
-.post em { font-style: italic }
 
 div.post h1 {
 	margin-top: 0px;
@@ -230,9 +160,79 @@ div.post p {
 	margin-bottom: 1.4em;
 }
 
-div.post ul {
+.post strong { font: bold; }
 
+.post em { font-style: italic }
+
+/* Objects */
+
+div.post img {
+	 display: block;
+	 margin: 10px auto 10px;
+	 max-width: 600px;
 }
+
+
+div.post object { 
+	margin: 0 0 0 -20px;
+}
+
+div.post iframe { 
+	margin: 0 0 0 -20px;
+}
+
+/* Lists */
+
+div.post ul {
+	list-style:decimal;
+}
+div.post ol {
+	list-style-type:none;
+}
+
+div.post blockquote {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	color: #666;
+	border-left: 1px solid #ccc;
+}
+
+/* Titles */
+
+h3#titles {
+	width: 138px; height: 34px;
+	margin: 0 0 10px 0px;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif; color: #000;
+	letter-spacing: -1px;
+}
+
+h4#titles {
+	color: #888;
+	font-size: ;
+	margin-bottom: 20px;
+}
+
+/* Archive */
+
+.archive a {
+}
+
+.archive a:hover {
+	text-decoration: none;
+	background-color: #2e5dab;
+	color: #fff;
+}
+
+.txt0 {
+	color: #888;
+}
+
+
+/*-------------------------------
+More button
+-------------------------------*/
+
 
 #more a {
 	background-color: #dedede;
