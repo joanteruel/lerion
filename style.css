@@ -60,10 +60,10 @@ a:hover, a:active, a.active {
 }
 
 /* Lists */
-#content div.post ul {
+#blog div.post ul {
 	list-style:decimal;
 }
-#content div.post ol {
+#blog div.post ol {
 	padding:10px 10px 10px 20px;
 	list-style-type:none;
 }
