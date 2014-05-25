@@ -61,7 +61,6 @@ a:hover, a:active, a.active {
 
 /* Lists */
 #content div.post ul {
-	padding:10px 10px 10px 30px;
 	list-style:decimal;
 }
 #content div.post ol {
