@@ -172,7 +172,6 @@ div.post img {
 	 max-width: 600px;
 }
 
-
 div.post object { 
 	margin: 0 0 0 -20px;
 }
@@ -198,22 +197,10 @@ div.post blockquote {
 	border-left: 1px solid #ccc;
 }
 
-/* Titles */
 
-h3#titles {
-	width: 138px; height: 34px;
-	margin: 0 0 10px 0px;
-	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif; color: #000;
-	letter-spacing: -1px;
-}
-
-h4#titles {
-	color: #888;
-	font-size: ;
-	margin-bottom: 20px;
-}
-
-/* Archive */
+/*-------------------------------
+Archive
+-------------------------------*/
 
 .archive a {
 }
@@ -226,6 +213,18 @@ h4#titles {
 
 .txt0 {
 	color: #888;
+}
+
+
+/*-------------------------------
+Title (Photos, Videos)
+-------------------------------*/
+
+h3#titles {
+	width: 138px; height: 34px;
+	margin: 0 0 10px 0px;
+	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif; color: #000;
+	letter-spacing: -1px;
 }
 
 
@@ -260,10 +259,6 @@ More button
 	border: none;
 }
 
-/*------------------------------------------------------------------
-4.	PLUGINS
-	Predefined utilities
---------------------------------------------------------------------
 
 /*-------------------------------
 Widgets
