@@ -183,7 +183,7 @@ div.post iframe {
 /* Lists */
 
 div.post ul {
-	list-style:decimal;
+	list-style:none;
 	margin: 10px auto 10px;
 }
 div.post ol {
