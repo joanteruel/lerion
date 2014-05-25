@@ -45,16 +45,8 @@ em { color: #d9e3ea }
 
 /* Headlines */
 
-h1 { }
 
-h2 { }
 
-h3 { }
-
-h3 a:hover {
-	text-decoration: none;
-	background-color: #cdcdcd;
-}
 
 /* Anchors */
 a, a:link, a:visited {
