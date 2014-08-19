@@ -110,7 +110,6 @@ Base layout
 	
 #footer {
 	width: 640px;
-	height: ;
 }
 
 
@@ -164,7 +163,7 @@ div.post p {
 /* Objects */
 
 div.post img {
-	 display: block;;
+	 display: block;
 	 margin: 0px -20px 0px;
 	 max-width: 640px;
 }
