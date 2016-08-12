@@ -9,7 +9,7 @@ type: post
 published: true
 meta: {}
 ---
-<iframe src="http://www.youtube.com/v/8uegmw2M1PU" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/8uegmw2M1PU" frameborder="0"></iframe>
 
 Leriano y la evolución del ser, una historia rica en simbología posmoderna y significados ocultos. Éste es el primero de una serie de micro-cortometrajes que iremos colgando en la web sobre Leriano, el habitante de Lerion. Muy pronto la segunda entrega. 
 
