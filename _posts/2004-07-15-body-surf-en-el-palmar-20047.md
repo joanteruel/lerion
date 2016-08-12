@@ -10,7 +10,9 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/palmar.jpg" alt="Body Surf en el Palmar 2004.7" class="alignleft"/>Desde hace ya un par de años nos venía rondando la idea de ir a la playa de el Palmar (Cádiz)  donde se celebra una de las pruebas del campeonato de España de Surf. Esta playa es una de las últimas que se conservan "vírgenes" y donde se forman las mejores olas de todo el sur de la península.
+<img src="../images_posts/palmar.jpg" alt="Body Surf en el Palmar 2004.7" class="alignleft"/>
+
+Desde hace ya un par de años nos venía rondando la idea de ir a la playa de el Palmar (Cádiz)  donde se celebra una de las pruebas del campeonato de España de Surf. Esta playa es una de las últimas que se conservan "vírgenes" y donde se forman las mejores olas de todo el sur de la península.
 
 Cogimos el coche y fuimos a ver si podíamos practicar algo de surf. Para dormir nos quedamos en el camping "el Palmar", a 1 km. de la playa (lo más cerca que encontramos) donde conocimos a personajes siniestros como "el cortador de césped" o "Jack el deshierbador" (le sacamos una foto, si alguien está interesado en verla que me mande un mail :-) ). Al final nos decantamos por el Body Surf dadas las condiciones de la playa y al ver que los surfers no podían hacer mucho, decision de la que no nos arrepentimos porque fue muy divertido.
 

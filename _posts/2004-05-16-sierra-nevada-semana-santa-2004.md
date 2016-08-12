@@ -10,7 +10,9 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/sn2004.jpg" alt="Sierra Nevada, Semana Santa 2004" class="alignleft"/>¡Vaya par de días que hemos pasado en Sierra Nevada! Esta es la tercera vez que vamos a las pistas de esquí de Granada a practicar nuestro deporte de invierno favorito: el Snowboard (perdona Dani). Desde luego, ninguno de los tres que hemos ido (Dani "el Demo", Joan "el Slap" y yo mismo "el Ryf") nos hubiésemos imaginado lo que hemos llegado a mejorar en estos dos días.
+<img src="../images_posts/sn2004.jpg" alt="Sierra Nevada, Semana Santa 2004" class="alignleft"/>
+
+¡Vaya par de días que hemos pasado en Sierra Nevada! Esta es la tercera vez que vamos a las pistas de esquí de Granada a practicar nuestro deporte de invierno favorito: el Snowboard (perdona Dani). Desde luego, ninguno de los tres que hemos ido (Dani "el Demo", Joan "el Slap" y yo mismo "el Ryf") nos hubiésemos imaginado lo que hemos llegado a mejorar en estos dos días.
 
 Resumen muy resumido: Salida de Badajoz hasta llegar a Granada perdiéndonos en todos los núcleos con más de 200.000 habitantes (véase Sevilla, algunos pueblos cuyo nombre desconozco, y la propia Granada). Al llegar por la tarde a Pradollano, inspeccionamos todas las tiendas y llevamos las tablas a encerar, luego vamos a cenar al albergue y comprobamos que los "señores dueños" son los mismos de todos los años.
 1ª Noche: Salimos con la intención de dar una vuelta e irnos a dormir pronto pero surgen complicaciones, empezamos a conocer Valencian@s, Vitorian@s, Brasileñ@s.... total, que esa noche dormimos una hora como mucho.
