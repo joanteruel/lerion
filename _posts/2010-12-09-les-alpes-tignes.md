@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Tignes (Les Alpes)
+title: "Tignes (Les Alpes)"
 tags:
 - Viajes
 status: publish

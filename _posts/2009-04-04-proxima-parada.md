@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Próxima parada...
+title: "Próxima parada..."
 tags:
 - Viajes
 status: publish

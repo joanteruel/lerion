@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Video] Bowling Pedralbes
+title: "[Video] Bowling Pedralbes"
 tags:
 - Videos
 status: publish

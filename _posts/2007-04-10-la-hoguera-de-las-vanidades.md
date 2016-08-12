@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Libros] La hoguera de las vanidades
+title: "[Libros] La hoguera de las vanidades"
 tags:
 - Libros
 status: publish

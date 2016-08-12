@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Roma, Amsterdam y Bélgica
+title: "Roma, Amsterdam y Bélgica"
 tags:
 - Viajes
 status: publish

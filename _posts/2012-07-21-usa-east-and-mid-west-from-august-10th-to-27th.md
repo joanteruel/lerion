@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: USA East and Mid West from August 10th to 27th
+title: "USA East and Mid West from August 10th to 27th"
 tags:
 - Viajes
 status: publish

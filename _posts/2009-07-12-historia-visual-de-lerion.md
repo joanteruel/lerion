@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Historia visual de Lerion
+title: "Historia visual de Lerion"
 tags:
 - Blogs
 status: publish

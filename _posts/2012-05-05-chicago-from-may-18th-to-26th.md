@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Chicago from May 18th to 26th
+title: "Chicago from May 18th to 26th"
 tags:
 - Viajes
 status: publish

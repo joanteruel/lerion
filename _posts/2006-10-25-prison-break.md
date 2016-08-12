@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Cine] Prison Break
+title: "[Cine] Prison Break"
 tags:
 - Cine / TV
 status: publish

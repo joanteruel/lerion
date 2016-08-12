@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Teorías conspiratorias de "Lost"
+title: Teorías conspiratorias de Lost
 tags:
 - Cine / TV
 status: publish

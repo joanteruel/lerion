@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: China & Philipines from October 21th to November 1st
+title: "China & Philipines from October 21th to November 1st"
 tags:
 - General
 - Viajes

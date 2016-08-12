@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Video] Solving the Rubik's Cube
+title: "[Video] Solving the Rubik's Cube"
 tags:
 - video
 - Videos

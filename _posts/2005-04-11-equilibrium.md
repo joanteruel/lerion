@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Cine] Equilibrium
+title: "[Cine] Equilibrium"
 tags:
 - Cine / TV
 status: publish

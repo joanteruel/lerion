@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Fotos del viaje a New York
+title: "Fotos del viaje a New York"
 tags:
 - General
 status: publish

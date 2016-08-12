@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Cine] The Man form Earth
+title: "[Cine] The Man form Earth"
 tags:
 - Cine / TV
 status: publish

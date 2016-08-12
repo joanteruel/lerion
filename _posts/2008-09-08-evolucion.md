@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Video] Evolución
+title: "[Video] Evolución"
 tags:
 - Reflexiones
 - Videos

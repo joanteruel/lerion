@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Istanbul & Zurich from January 1st to 6th
+title: "Istanbul & Zurich from January 1st to 6th"
 tags:
 - Viajes
 status: publish

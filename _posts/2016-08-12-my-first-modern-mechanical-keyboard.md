@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Joan
-title: 'My first modern mechanical keyboard'
+title: "My first modern mechanical keyboard"
 
 ---
 A Pok3r keyboard with cherry MX Red and ANSI layout. A keyboard is a keyboard and it's possible to work and play with whatever object you can find; indeed I has been working for years with normal membrane keyboards given away by stores completely ignoring more expensive keyboards.

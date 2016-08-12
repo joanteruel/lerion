@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Viaje por el Este de Europa
+title: "Viaje por el Este de Europa"
 tags:
 - Viajes
 status: publish

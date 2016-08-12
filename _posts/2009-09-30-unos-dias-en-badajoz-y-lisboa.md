@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Unos días en Badajoz y Lisboa
+title: "Unos días en Badajoz y Lisboa"
 tags:
 - Viajes
 status: publish

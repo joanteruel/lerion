@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Podcast] II
+title: "[Podcast] II"
 tags:
 - Humor
 - Lerion

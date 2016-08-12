@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Cine] Batman Begins
+title: "[Cine] Batman Begins"
 tags:
 - Cine / TV
 status: publish

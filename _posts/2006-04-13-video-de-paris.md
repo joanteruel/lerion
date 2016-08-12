@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Video] París 2006
+title: "[Video] París 2006"
 tags:
 - Viajes
 - Videos

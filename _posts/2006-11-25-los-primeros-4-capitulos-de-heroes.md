@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Cine] Los primeros capitulos de "Heroes"
+title: "[Cine] Los primeros capitulos de Heroes"
 tags:
 - Cine / TV
 status: publish

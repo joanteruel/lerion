@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: 24 horas ciclistas de Montjuïc
+title: "24 horas ciclistas de Montjuïc"
 tags:
 - Viajes
 status: publish

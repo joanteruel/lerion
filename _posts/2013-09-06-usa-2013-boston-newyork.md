@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Video] USA 2013 Boston & New York
+title: "[Video] USA 2013 Boston & New York"
 status: publish
 type: post
 ---

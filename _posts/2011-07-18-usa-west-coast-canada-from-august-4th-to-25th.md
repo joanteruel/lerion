@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: USA West Coast & Canada from August 4th to 25th
+title: "USA West Coast & Canada from August 4th to 25th"
 tags:
 - General
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Video] Winter Sea
+title: "[Video] Winter Sea"
 tags:
 - video
 - Videos

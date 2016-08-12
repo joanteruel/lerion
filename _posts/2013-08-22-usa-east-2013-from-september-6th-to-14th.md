@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Jaume
-title: Boston & New York from September 6th to 14th
+title: "Boston & New York from September 6th to 14th"
 tags:
 - Viajes
 status: publish

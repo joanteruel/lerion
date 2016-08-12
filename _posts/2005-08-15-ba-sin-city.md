@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Cine]"Ba" Sin City
+title: "[Cine] 'Ba' Sin City"
 tags:
 - Cine / TV
 status: publish

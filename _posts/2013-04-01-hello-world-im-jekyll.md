@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume and Joan
-title: Hello World, I'm Jekyll
+title: "Hello World, I'm Jekyll"
 
 ---
 For some time now I’ve been hearing fellow dweebs sing the praises of Jekyll, a static HTML generator built in Ruby. There’s clearly lots to love in Jekyll for the programmer-blogger.  

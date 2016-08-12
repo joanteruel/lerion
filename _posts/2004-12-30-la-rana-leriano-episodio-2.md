@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Video] La rana Leriano - Episodio 2
+title: "[Video] La rana Leriano - Episodio 2"
 tags:
 - Videos
 status: publish

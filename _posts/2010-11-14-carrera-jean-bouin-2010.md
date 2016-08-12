@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Carrera Jean Bouin 2010
+title: "Carrera Jean Bouin 2010"
 tags:
 - General
 status: publish

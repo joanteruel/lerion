@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Jaume
-title: Munich & Salzburg from December 7th to 10th
+title: "Munich & Salzburg from December 7th to 10th"
 tags:
 - Viajes
 status: publish

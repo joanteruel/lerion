@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Zona volcánica de la Garrotxa
+title: "Zona volcánica de la Garrotxa"
 tags:
 - General
 status: publish

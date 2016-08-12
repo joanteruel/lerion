@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Restyling de la EN500 '92
+title: "Restyling de la EN500 '92"
 tags:
 - Gadgets
 status: publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Libros] La Danza de la Muerte
+title: "[Libros] La Danza de la Muerte"
 tags:
 - Libros
 status: publish
