@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Libros] Lunar Park
+title: "[Libros] Lunar Park"
 tags:
 - Libros
 status: publish
