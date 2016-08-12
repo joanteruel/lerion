@@ -12,7 +12,7 @@ meta: {}
 ---
 Tarde pero llegó. Por fín publicamos el resumen videográfico de una pequeñísima parte de lo que fueron nuestras <a href="http://www.lerion.com/?p=41">aventuras y desventuras por Londres y alrededores</a>. El vídeo dura dos minutos exactos y ocupa unas 3'5 megas, así que recomiendo dar al botón de pausa al principio y dejar que se cargue completamente para que no se pare a la mitad (eso sólo pasa la primera vez que se carga), y enchufad los altavoces. Espero que os guste!
 
-<iframe src="http://www.youtube.com/embed/XSYhcyETp-o" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/209527?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 
 Si alguien se queda con ganas de ver el resto, tenemos la versión extendida en dos DVD's que dura tres horas y media. Sólo apto para los más valientes ;-)
 
