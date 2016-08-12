@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Tormenta de Sangre
+title: [Cine] Tormenta de Sangre
 tags:
 - Videos
 status: publish

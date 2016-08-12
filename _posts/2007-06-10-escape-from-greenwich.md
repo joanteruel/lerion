@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Video - Escape from Greenwich
+title: [Video] Escape from Greenwich
 tags:
 - Viajes
 - Videos

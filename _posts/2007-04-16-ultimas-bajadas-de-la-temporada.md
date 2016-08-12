@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Video - Últimas bajadas de la temporada
+title: [Video] Últimas bajadas de la temporada
 tags:
 - Viajes
 - Videos

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Video - Primera esquiada en Ordino
+title: [Video] Primera esquiada en Ordino
 tags:
 - Viajes
 - video

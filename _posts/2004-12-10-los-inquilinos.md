@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Los Inquilinos
+title: [Cine] Los Inquilinos
 tags:
 - Videos
 status: publish

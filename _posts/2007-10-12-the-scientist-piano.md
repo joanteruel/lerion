@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Video - The Scientist (piano)
+title: [Video] The Scientist (piano)
 tags:
 - Música
 - Videos

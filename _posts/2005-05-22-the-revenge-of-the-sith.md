@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: 'Análisis: "The Revenge of the Sith"'
+title: [Cine] The Revenge of the Sith
 tags:
 - Cine / TV
 status: publish

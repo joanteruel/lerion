@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Video - Piratas de Silicon Valley
+title: [Video] Piratas de Silicon Valley
 tags:
 - Cine / TV
 - Ordenadores

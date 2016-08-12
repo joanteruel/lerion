@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Blade Runner
+title: [Cine] Blade Runner
 tags:
 - Cine / TV
 status: publish

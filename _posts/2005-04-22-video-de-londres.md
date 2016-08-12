@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Video - Vídeo de Londres
+title: [Video] Londres 2005
 tags:
 - Viajes
 - Videos

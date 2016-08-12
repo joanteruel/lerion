@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: Video - R.C.M.B. Rowing Mini Stage
+title: [Video] R.C.M.B. Rowing Mini Stage
 tags:
 - video
 - Videos
