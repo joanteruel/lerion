@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: "Stockholm from August 20th to 24th"
+title: 'Stockholm from August 20th to 24th'
 tags:
 ---
 <img src="http://maps.googleapis.com/maps/api/staticmap?size=640x300&zoom=6&maptype=roadmap%5C&markers=size:mid%7Ccolor:red%7Clabel:1%7Cstockholm&sensor=false"/>

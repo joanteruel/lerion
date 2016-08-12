@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jaume
-title: [Video] Munich & Salszburg 2013
+title: '[Video] Munich & Salszburg 2013'
 status: publish
 type: post
 
