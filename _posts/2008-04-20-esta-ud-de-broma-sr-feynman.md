@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Libros] ¿Está Ud. de broma, Sr. Feynman?
+title: "[Libros] ¿Está Ud. de broma, Sr. Feynman?"
 tags:
 - Libros
 status: publish
