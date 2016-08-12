@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: Video - Steve Jobs, discurso en Stanford
+title: [Video] Steve Jobs, discurso en Stanford
 tags:
 - Reflexiones
 status: publish
