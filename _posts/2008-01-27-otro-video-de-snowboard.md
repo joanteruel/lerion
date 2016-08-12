@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Joan
-title: [Video] Otro video de snowboard
+title: "[Video] Otro video de snowboard"
 tags:
 - Viajes
 status: publish
