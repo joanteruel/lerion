@@ -9,7 +9,7 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/inquilinos-dvd∫.jpg" alt="Inquilinos"/>
+<img src="../images_posts/inquilinos-dvd.jpg" alt="Inquilinos"/>
 
 Después de varias semanas de montaje, hemos terminado el cortometraje: Los Inquilinos. Un corto de terror con bastantes escenas de tensión, en el que la cantidad de "sangre artificial" utilizada se cuenta por litros. 
 
