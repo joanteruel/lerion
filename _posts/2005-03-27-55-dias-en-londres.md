@@ -28,4 +28,4 @@ Por la tarde-noche volvimos a Londres y dimos un paseo por el centro, cenamos en
 
 En fin, independientemente de si te gustan las grandes ciudades o no, de si te gustan los museos o no, de si te gustan las aglomeraciones o no, te recomiendo que visites Londres porque Londres es una ciudad sorprendente.
 
-Encontrarás muchas imágenes del viaje en el <a href="http://www.lerion.com/fotoblog/">álbum de fotos</a> de Lerion.
+Encontrarás muchas imágenes del viaje en el <a href="https://www.flickr.com/photos/lerion/albums/72157624773866922">álbum de fotos</a> de Lerion.
