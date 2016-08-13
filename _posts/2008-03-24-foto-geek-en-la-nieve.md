@@ -12,6 +12,7 @@ meta: {}
 <a href="http://www.flickr.com/photos/lerion/2355390673/" title="photo sharing"><img src="http://farm3.static.flickr.com/2236/2355390673_e36a7c7de8.jpg" class="flickr-photo" alt="" /></a>
 
 Preparación:
+
 1. Memorizar el día antes el paisaje de la webcam para ubicar su situación en la estación de esquí.
 2. Quedar con algún amigo (cómplice) el día antes para que mire la web de la estación a la hora H y haga la foto desde su casa.
 3. El día D, antes de la hora H, buscar la webcam de la estación de esquí.
