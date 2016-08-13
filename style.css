@@ -179,9 +179,14 @@ div.post iframe {
 
 /* Lists */
 
-div.post ul, div.post ol {
+div.post ol {
 /* 	list-style:decimal;*/
 	margin: auto auto 15px 40px;
+}
+
+div.post ul {
+/* 	list-style:decimal;*/
+	margin: auto auto 15px 20px;
 }
 
 div.post blockquote {
