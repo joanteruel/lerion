@@ -11,7 +11,7 @@ meta: {}
 ---
 Raúl Bellido, un buen amigo y gran aficionado al cine y a la sangre que emigró a Birmingham hace unos años, ha publicado varios cortos en YouTube. De momento el que más me ha gustado es "Tormenta de Sangre" con un argumento fiel a su estilo: 
 
-<blockquote>Hace años Evilio Rojas, uno de los componentes de la banda criminal "Los diablos", fue traicionado por sus propios compañeros, ahora, después de escapar de la carcel, sólo tiene un objetivo: matar de la manera más sanguinaria a todos los que tomaron parte en la traición, y a todos los que se interpongan en su camino. 
+<blockquote>Hace años Evilio Rojas, uno de los componentes de la banda criminal "Los diablos", fue traicionado por sus propios compañeros, ahora, después de escapar de la carcel, sólo tiene un objetivo: matar de la manera más sanguinaria a todos los que tomaron parte en la traición, y a todos los que se interpongan en su camino.  
 
 En su cruzada Evilio viajará de Barcelona a Birmingham, pasando por Londres, y se encontrará con peligrosos mafiosos, gays psicópatas y una detective que hará lo que sea para terminar con la tormenta de sangre que se avecina.
 </blockquote>

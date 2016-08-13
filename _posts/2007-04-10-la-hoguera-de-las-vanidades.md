@@ -11,13 +11,13 @@ meta: {}
 ---
 <img src="../images_posts/LaHogueradelasVanidades.jpg">
 
-<b>Título: </b><a href="http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900000109874,00.html?codigo=2900000109874">La hoguera de las vanidades</a>
-<b>Autor: </b>Tom Wolfe
-<b>Tema: </b>Novela documental
-<b>Editorial: </b>Anagrama
-<b>Páginas: </b>636
-<b>ISBN: </b>8433920545
-<b>Idioma: </b>Castellano
+<b>Título: </b><a href="http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900000109874,00.html?codigo=2900000109874">La hoguera de las vanidades</a>  
+<b>Autor: </b>Tom Wolfe  
+<b>Tema: </b>Novela documental  
+<b>Editorial: </b>Anagrama  
+<b>Páginas: </b>636  
+<b>ISBN: </b>8433920545  
+<b>Idioma: </b>Castellano  
 <b>Título original: </b>The Bonfire of the Vanities
 
 

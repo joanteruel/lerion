@@ -12,12 +12,12 @@ meta:
 ---
 <img src="../images_posts/bromafeynman.jpg">
 
-<b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=8420695475">¿Está Ud. de broma, Sr. Feynman?</a>
-<b>Autor: </b>Richard P. Feynman
-<b>Tema: </b>Novela biográfica
-<b>Editorial: </b>Alianza
-<b>Páginas: </b>403
-<b>ISBN: </b>8420695475
+<b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=8420695475">¿Está Ud. de broma, Sr. Feynman?</a>  
+<b>Autor: </b>Richard P. Feynman  
+<b>Tema: </b>Novela biográfica  
+<b>Editorial: </b>Alianza  
+<b>Páginas: </b>403  
+<b>ISBN: </b>8420695475  
 <b>Idioma: </b>Castellano
 
 A <a href="http://es.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> (1918-1988) se le considera como uno de los físicos más importantes del siglo XX. Quizás no sea tan conocido como <a href="http://es.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>, <a href="http://es.wikipedia.org/wiki/Erwin_Schrödinger">Erwin Schrödinger</a>, <a href="http://es.wikipedia.org/wiki/Wolfgang_Pauli">Wolfgang Pauli</a> o <a href="http://es.wikipedia.org/wiki/Paul_Dirac">Paul Dirac</a>, pero sus contribuciones a la mecánica cuántica no han sido nada desdeñables: <a href="http://es.wikipedia.org/wiki/Diagrama_de_Feynman">el diagrama de Feynman</a>, <a href="http://es.wikipedia.org/wiki/Electrodinámica_cuántica">electrodinámica cuántica</a> y <a href="http://es.wikipedia.org/wiki/Superfluidez">superfluidez</a> son algunos de sus logros.

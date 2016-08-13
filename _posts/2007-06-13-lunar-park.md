@@ -11,13 +11,13 @@ meta: {}
 ---
 <img src="../images_posts/LunarPark.jpg">
 
-<b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=6520377620">Lunar Park</a>
-<b>Autor: </b>Bret Easton Ellis
-<b>Tema: </b>Novela política
-<b>Editorial: </b>Ediciones debolsillo
-<b>Páginas: </b>384
-<b>ISBN: </b>8483461587
-<b>Idioma: </b>Castellano
+<b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=6520377620">Lunar Park</a>  
+<b>Autor: </b>Bret Easton Ellis  
+<b>Tema: </b>Novela política  
+<b>Editorial: </b>Ediciones debolsillo  
+<b>Páginas: </b>384  
+<b>ISBN: </b>8483461587  
+<b>Idioma: </b>Castellano  
 
 Easton Ellis está reconocido como uno de los mejores escritores norteamericanos del momento. El libro transcurre en un ambiente con situaciones surrealistas, casi sobrenaturales. Pero eso no es lo más importante, sino que en realidad es un libro de relaciones paterno-filiares, más o menos autobiográfico y una crítica a la sociedad más rica y pija norteamericana.
 
