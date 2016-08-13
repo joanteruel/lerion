@@ -9,6 +9,7 @@ type: post
 published: true
 ---
 ¿Como se calcula el volumen de una vaca?  
+
 <strong>Ingeniero</strong>: Metemos la vaca dentro de una gran cuba de agua y la diferencia de volumen es el de la vaca.  
 <strong>Matemático</strong>: Parametrizamos la superficie de la vaca y se calcula el volumen mediante una integral triple.  
 <strong>Físico</strong>: Supongamos que la vaca es esférica...  
