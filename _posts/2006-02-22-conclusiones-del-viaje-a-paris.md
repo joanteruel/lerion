@@ -19,7 +19,7 @@ Estas fueron algunas impresiones (muy resumidas) de París:
  - Los monumentos también.
  - Se necesitan más de tres días para visitarla completamente.
  - La comida es un poco más cara.
- - El agua se vende por marcas, y un botellín te puede costar más de 6 ¤.
+ - El agua se vende por marcas, y un botellín te puede costar más de 6 euros.
  - Las calles se ven límpias y seguras.
  - "La ciudad de la luz" hace honor a su nombre.
  - Es fácil moverse de un sitio a otro (metro + pies).
