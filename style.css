@@ -180,12 +180,12 @@ div.post iframe {
 /* Lists */
 
 div.post ul {
-/* 	list-style:decimal;
-	margin: 10px auto 1.4em 40px;*/
+/* 	list-style:decimal;*/
+	margin: 10px;/*  auto 1.4em 40px;*/
 }
 div.post ol {
-/* 	list-style-type:square;
-	margin: 10px auto 1.4em 40px;*/
+/* 	list-style-type:square;*/
+	margin: 10px;/*  auto 1.4em 40px;*/
 }
 
 div.post blockquote {
