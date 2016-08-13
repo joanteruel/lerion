@@ -179,13 +179,9 @@ div.post iframe {
 
 /* Lists */
 
-div.post ul {
+div.post ul, div.post ol {
 /* 	list-style:decimal;*/
-	margin: 10px;/*  auto 1.4em 40px;*/
-}
-div.post ol {
-/* 	list-style-type:square;*/
-	margin: 10px;/*  auto 1.4em 40px;*/
+	margin: 10px auto;/* 1.4em 40px;*/
 }
 
 div.post blockquote {
