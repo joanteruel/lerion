@@ -61,7 +61,7 @@ Las aventuras gráficas de la antigua Lucasfilm han sido los juegos que más me 
 
 <img class="center noborder" src="../images_posts/the_dig.jpg" />
 
-<img class="center noborder" src="../images_posts/images/loom.jpg" />
+<img class="center noborder" src="../images_posts/loom.jpg" />
 
 <strong>#1: Monkey Island I & II</strong>
 La aventura gráfica por antonomasia. Guybrush Threepwood, La gobernadora Elaine Marley, El pirata fantasma LeChuck... forman parte del imaginario colectivo de mi generación. Inolvidable. Por cierto, guarda con la película Piratas del Caribe 2 algunas escenas calcadas (diría que flagrante plagio -pero supongo que consentidas-) como la de la casa de vudú en el pantano.
