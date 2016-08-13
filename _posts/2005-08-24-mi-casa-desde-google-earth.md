@@ -10,4 +10,5 @@ published: true
 meta: {}
 ---
 <a href="../images_posts/badalona.jpg"><img src="../images_posts/badalonasmall.jpg" alt="badalona" class="marco center" /></a>
-<a href="http://earth.google.com">Google Earth.</a> 
+
+Fuente: <a href="http://earth.google.com">Google Earth</a>.

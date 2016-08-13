@@ -31,4 +31,4 @@ Como toque personal podemos quitarle la extensión .dmg (<b>ojo</b>, sólo si te
 
 <img src="../images_posts/captura4.png" class="center noborder"/>
 
-<a href="http://princesadelguisante.bitacoras.com/julio04/bricomania.jpg">Y eso es todo amigos</a>, ahora podemos guardar nuestros más preciados secretos sin temor a ser descubiertos.
+Y eso es todo amigos, ahora podemos guardar nuestros más preciados secretos sin temor a ser descubiertos.

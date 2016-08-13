@@ -11,8 +11,6 @@ meta: {}
 ---
 Ayer, manteniendo una conversación con Smash, Abgabenordnung, Slap y Smoz tocamos el tema de las tribus urbanas. Concretamente tratamos de diferenciar a los geeks, nerds y frikis. Pues bien, como la cosa no quedó muy clara, hoy he estado investigando más sobre el tema y estas son las conclusiones a las que he llegado:
 
-
-
 <blockquote>Un <strong>Geek</strong> es una persona que comparte una gran fascinación, quizás obsesiva, por la tecnología (especialmente la programación) y la imaginación; es más un estilo de vida y una forma de ser que una afición concreta por algo poco habitual. Su objetivo es hacer las cosas por diversión y por el reconocimiento, casi siempre por el simple placer de hacerlo.
 
 Sin embargo es un término que suele confundirse como sinónimo de <strong>Nerd</strong>. Aunque las diferencias son muy debatidas hoy en día, al igual que un geek, un nerd es una persona con gran inteligencia y pasión por el conocimiento, así como con altas tendencias a aislarse del mainstream social (lo que todos conocemos como "el empollón"). Sin embargo un geek suele ser una persona más extravagante y extrovertida tanto en su estilo de vida como en su forma de ser, mientras que un nerd tiende a ser más conservador.

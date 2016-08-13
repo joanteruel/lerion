@@ -9,7 +9,9 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/LunarPark.jpg"  height="175" class="noborder alignleft"/><b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=6520377620">Lunar Park</a>
+<img src="../images_posts/LunarPark.jpg">
+
+<b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=6520377620">Lunar Park</a>
 <b>Autor: </b>Bret Easton Ellis
 <b>Tema: </b>Novela política
 <b>Editorial: </b>Ediciones debolsillo

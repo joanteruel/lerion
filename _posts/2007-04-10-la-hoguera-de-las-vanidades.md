@@ -9,7 +9,9 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/LaHogueradelasVanidades.jpg"  height="175" class="noborder alignleft"/><b>Título: </b><a href="http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900000109874,00.html?codigo=2900000109874">La hoguera de las vanidades</a>
+<img src="../images_posts/LaHogueradelasVanidades.jpg">
+
+<b>Título: </b><a href="http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900000109874,00.html?codigo=2900000109874">La hoguera de las vanidades</a>
 <b>Autor: </b>Tom Wolfe
 <b>Tema: </b>Novela documental
 <b>Editorial: </b>Anagrama

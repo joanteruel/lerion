@@ -9,7 +9,8 @@ type: post
 published: true
 meta: {}
 ---
-<img width="215" height="240" alt="Prison Break" class="center noborder" src="../images_posts/prison_break.jpg" />
+<img alt="Prison Break" class="center noborder" src="../images_posts/prison_break.jpg" />
+
 Prison Break es una de esas series de calidad que últimamente siguen la estela de "Lost". Aquí en España la emiten en laSexta o en FoxTV. Aunque como de costumbre (y últimamente va a peor) el doblaje es lamentable. Por eso prefiero verla en versión original subtitulada. Por si alguien no la conoce todavia os dejo un poco de info, que espero que os sirva para que os animeis a verla:
 
 <blockquote>Michael Scotfield es un hombre desesperado en una situación desesperada. Su hermano, Lincoln Burrows, está en el corredor de la muerte para perder la vida en unos pocos meses por un asesinato que Michael está convencido que no cometió. Sin tener otra opción para ayudar a su hermano y con el tiempo corriendo en su contra, Michael atraca un banco para ser encarcelado en la Prisión de Fox River State. Una vez dentro, Michael -un ingeniero de estructuras que ha formado parte en el diseño la cárcel- comienza a ejecutar un pan para sacar a su hermano de ahí y probar su inocencia.

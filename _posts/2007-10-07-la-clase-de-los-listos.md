@@ -10,5 +10,4 @@ type: post
 published: true
 meta: {}
 ---
-<a href="http://www.applesfera.com/images/2007/10/macbookuni.jpg"><img src="http://www.applesfera.com/images/2007/10/macbookunilow.jpg" alt="" class="noborder"/></a>
-Vía <a href="http://www.applesfera.com">Applesfera</a>.
+<img src="http://i.blogs.es/6a752e/macbookunilow/1024_2000.jpg" alt="" >

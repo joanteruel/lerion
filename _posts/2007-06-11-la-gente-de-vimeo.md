@@ -10,7 +10,7 @@ type: post
 published: true
 meta: {}
 ---
-<a href="http://www.blumpy.org/">Jakob Lodwick</a>, fundador de <a href="http://www.vimeo.com/">Vimeo</a>, presentó este servicio el 17 de junio de 2005, hace casi dos años; aunque desde noviembre de 2004 se mantenía en fase alpha y no pública. Apareció en junio de 2005, antes que YouTube, que se presentó en agosto de 2005.
+<a href="http://www.jakelodwick.com">Jakob Lodwick</a>, fundador de <a href="http://www.vimeo.com/">Vimeo</a>, presentó este servicio el 17 de junio de 2005, hace casi dos años; aunque desde noviembre de 2004 se mantenía en fase alpha y no pública. Apareció en junio de 2005, antes que YouTube, que se presentó en agosto de 2005.
 
 Entonces... ¿Quién es clon de quién?
 

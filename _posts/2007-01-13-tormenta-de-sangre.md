@@ -18,9 +18,9 @@ En su cruzada Evilio viajará de Barcelona a Birmingham, pasando por Londres, y 
 
 Bueno, os dejo el trailer para ir abriendo boca y los enlaces del corto completo. Que disfruteis!!!
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/x-_LqE9xgT0"></param><embed src="http://www.youtube.com/v/x-_LqE9xgT0" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
+<iframe src="http://www.youtube.com/embed/x-_LqE9xgT0" frameborder="0"></iframe>
 
-<a href="http://www.youtube.com/watch?v=-o1fBLM4pFo" target="blank">Tormenta de Sangre - Parte 1</a>
-<a href="http://www.youtube.com/watch?v=C-grDRPaChA" target="blank">Tormenta de Sangre - Parte 2</a>
-<a href="http://www.youtube.com/watch?v=HrjB4R2CVfs" target="blank">Tormenta de Sangre - Parte 3</a>
-<a href="http://www.youtube.com/watch?v=y-eS9o4SYaE" target="blank">Tormenta de Sangre - Parte 4</a>
+* <a href="http://www.youtube.com/watch?v=-o1fBLM4pFo" target="blank">Tormenta de Sangre - Parte 1</a>
+* <a href="http://www.youtube.com/watch?v=C-grDRPaChA" target="blank">Tormenta de Sangre - Parte 2</a>
+* <a href="http://www.youtube.com/watch?v=HrjB4R2CVfs" target="blank">Tormenta de Sangre - Parte 3</a>
+* <a href="http://www.youtube.com/watch?v=y-eS9o4SYaE" target="blank">Tormenta de Sangre - Parte 4</a>

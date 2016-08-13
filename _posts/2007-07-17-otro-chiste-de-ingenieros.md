@@ -9,7 +9,9 @@ type: post
 published: true
 meta: {}
 ---
-<blockquote><img src="../images_posts/nerd.jpg" alt="Nerd" class="alignright" />Se murió un ingeniero y se fue a las puertas del Cielo. 
+<img src="../images_posts/nerd.jpg" alt="Nerd" class="alignright" />
+
+<blockquote>Se murió un ingeniero y se fue a las puertas del Cielo. 
 
 Sabido es que los ingenieros por su honestidad siempre van al cielo. San Pedro buscó en su archivo, pero últimamente andaba un poco desorganizado y no lo encontró en la maraña de papeles, así que le dijo: 
 "Lo lamento, no estás en la lista...".

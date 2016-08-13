@@ -9,7 +9,9 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/La Danza de la Muerte.jpg" height="175" class="noborder alignleft"/><b>Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=8401335779">La Danza de la Muerte</a>
+<img src="../images_posts/La Danza de la Muerte.jpg"><b>
+
+Título: </b><a href="http://www.elcorteingles.es/libros/producto/libro_descripcion.asp?CODIISBN=8401335779">La Danza de la Muerte</a>
 <b>Autor: </b>Douglas Preston y Lincoln Child
 <b>Tema: </b>Novela policiaca
 <b>Editorial: </b>Plaza & Janés, 2006

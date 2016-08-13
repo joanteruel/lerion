@@ -12,9 +12,7 @@ meta:
 ---
 Primeras bajadas de la temporada 2008.
 
-<iframe src="http://player.vimeo.com/video/6401226?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" width="500" height="377" frameborder="0"></iframe>
-
-También podéis descargar el video en HD <a href="http://www.vimeo.com/download/video:28819499">aquí</a> (82 megas).
+<iframe src="http://player.vimeo.com/video/640122?title=0&amp;byline=0&amp;color=679AF1&amp;portrait=0" frameborder="0"></iframe>
 
 Más fotos: <a href="http://www.flickr.com/photos/lerion/">Flickr de Lerion</a>
 Más información: <a href="http://www.lespyrenees.net/fr/station,16,Font-Romeu-Pyrenees-2000.html">Font Romeu</a>

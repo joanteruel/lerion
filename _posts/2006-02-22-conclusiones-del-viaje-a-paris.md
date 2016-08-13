@@ -9,7 +9,7 @@ type: post
 published: true
 meta: {}
 ---
-<img src="../images_posts/canon_a520.jpg" alt="Canon" class="alignright"/>Ya he subido a Lerion las fotos de París. El viaje ha estado genial, en total hemos hecho más de 800 fotos y dos horas y media de video. Por lo que he podido leer en el foro, las fotos han gustado bastante. Aunque debo confesar que no hubiesen salido tan bien si no llega a ser por la cámara que llevé: la <a href="http://www.dcresource.com/reviews/canon/powershot_a510_a520-review/">Canon A520</a>.
+Ya he subido a Lerion las <a href="https://www.flickr.com/photos/lerion/albums/72157624773877660">fotos de París</a>. El viaje ha estado genial, en total hemos hecho más de 800 fotos y dos horas y media de video. Por lo que he podido leer en el foro, las fotos han gustado bastante. Aunque debo confesar que no hubiesen salido tan bien si no llega a ser por la cámara que llevé: la <a href="http://www.dcresource.com/reviews/canon/powershot_a510_a520-review/">Canon A520</a>.
 
 Estas fueron algunas impresiones (muy resumidas) de París:
 

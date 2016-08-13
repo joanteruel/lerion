@@ -12,4 +12,4 @@ meta:
 ---
 <a href="http://www.flickr.com/photos/lerion/sets/72157607282947477/"><img src="../images_posts/fotos_olot.jpg" alt="Fotos Olot" /></a>
 
-Set de fotos de la excursión que hicimos al parque natural de la Garrotxa, la zona volcánica mejor conservada de la península ibérica.
+<a href="http://www.flickr.com/photos/lerion/sets/72157607282947477/">Set de fotos</a> de la excursión que hicimos al parque natural de la Garrotxa, la zona volcánica mejor conservada de la península ibérica.
