@@ -183,9 +183,9 @@ div.post ul {
 	list-style:decimal;
 	margin: 10px auto 1.4em 40px;
 }
-div.post ol {
+/*div.post ol {
 	list-style-type:none;
-}
+}*/
 
 div.post blockquote {
 	margin-top: 10px;
