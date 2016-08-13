@@ -11,7 +11,7 @@ meta: {}
 ---
 Como no hay muchas listas en este blog, ahí va una curiosa. Esta es la lista de los comentaristas más activos de Lerion a día de hoy:
 
-1. Smoz (128 comentarios)   Campeón mundial!!!!
+1. Smoz (128 comentarios) --> Campeón mundial!!!!
 2. Slap (76 comentarios)
 3. Spit (64 comentarios)
 4. Ryf (62 comentarios)
