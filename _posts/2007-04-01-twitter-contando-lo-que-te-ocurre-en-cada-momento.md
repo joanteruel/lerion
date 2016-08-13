@@ -18,9 +18,9 @@ Evolución del blogging que he encontrado vía <a href="http://www.nuncajamas.co
 * 2004 [Flickr]: ¡Mola! ¡fotos de mi gato!
 * 2005 [YouTube]: ¡Videos de mi gato!
 * 2007 [Twitter]:
-:  13h, mi gato ha estornudado.
-:  13h02m, mi gato a vuelto a estornudar.
-:  13h04m, Mi gato lleva un rato sin estornudar y me empieza a preocupar.
+:  - 13h, mi gato ha estornudado.
+:  - 13h02m, mi gato a vuelto a estornudar.
+:  - 13h04m, Mi gato lleva un rato sin estornudar y me empieza a preocupar.
 
 Desde luego que el fenómeno <a href="http://www.twitter.com">twitter</a> está condenado al éxito. Tanto que no sé si acabará muriendo de él...
 
