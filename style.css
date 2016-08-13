@@ -181,7 +181,7 @@ div.post iframe {
 
 div.post ol {
 /* 	list-style:decimal;*/
-	margin: auto auto 15px 40px;
+	margin: -10px auto 15px 40px;
 }
 
 div.post ul {
