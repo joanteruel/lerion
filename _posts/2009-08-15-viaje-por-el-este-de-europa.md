@@ -12,6 +12,6 @@ meta:
 ---
 Aprovechando la invitación a la boda de un amigo en Myślenice, hicimos un viaje de una semana por Polonia y Hungría pasando por Eslovaquia y la República Checa. Hemos colgado un álbum con algunas fotos del viaje. 
 
-Haz click en la imagen para acceder al <a href="http://www.flickr.com/photos/lerion/sets/72157622032841160/"><img alt="" src="https://farm3.staticflickr.com/2564/3818473735_1709b3e42b_z.jpg" class="alignnone" />álbum de fotos</a>:
+Haz click en la imagen para acceder al <a href="http://www.flickr.com/photos/lerion/sets/72157622032841160/">álbum de fotos</a>:
 
 <a href="http://www.flickr.com/photos/lerion/sets/72157622032841160/"><img alt="" src="https://farm3.staticflickr.com/2564/3818473735_1709b3e42b_z.jpg" class="alignnone" /></a>

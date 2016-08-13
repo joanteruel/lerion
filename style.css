@@ -179,22 +179,24 @@ div.post iframe {
 
 /* Lists */
 
-div.post ul {
-	list-style:decimal;
-	margin: 10px auto 1.4em 40px;
-}
 div.post ol {
-	list-style-type:none;
+/* 	list-style:decimal;*/
+	margin: -10px auto 20px 40px;
+}
+
+div.post ul {
+ 	list-style:circle;
+	margin: -10px auto 20px 25px;
 }
 
 div.post blockquote {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	padding-left: 10px;
 	color: #666;
 	border-left: 1px solid #ccc;
 }
-
+div.post blockquote > :first-child {}
+div.post blockquote > :last-child {}
 
 /*-------------------------------
 Archive

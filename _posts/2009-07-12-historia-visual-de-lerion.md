@@ -16,11 +16,11 @@ Hace tiempo que quería escribir esta entrada. El otro día, haciendo una copia 
 
 <strong>Primera versión. Año 2004.</strong> Así empezó el blog, muy colorido.
 
-<a href="http://www.flickr.com/photos/lerion/3712514347/sizes/o/in/set-72157621335762810/"><img src="../images_posts/Lerion_v2.png" alt=""></a>
+<a href="http://www.flickr.com/photos/lerion/3712514347/sizes/l/in/set-72157621335762810/"><img src="../images_posts/Lerion_v2.png" alt=""></a>
 
 <strong>Segunda versión. Año 2005.</strong> Un diseño un poco más sobrio y con fondos blancos para integrar mejor las imágenes.
 
-<a href="http://www.flickr.com/photos/lerion/3712513651/sizes/o/in/set-72157621335762810/"><img src="../images_posts/Lerion_v3.png" alt=""></a>
+<a href="http://www.flickr.com/photos/lerion/3712513651/sizes/l/in/set-72157621335762810/"><img src="../images_posts/Lerion_v3.png" alt=""></a>
 
 <strong>Tercera versión. Año 2006.</strong> Se dio un giro hacia el minimalismo, eliminando secciones y centrándose sólo en el blog personal.
 
