@@ -7,8 +7,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '3'
 ---
 ¿Como se calcula el volumen de una vaca? 
 
