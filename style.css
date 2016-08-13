@@ -186,7 +186,7 @@ div.post ol {
 
 div.post ul {
 /* 	list-style:decimal;*/
-	margin: auto auto 15px 20px;
+	margin: -10px auto 15px 25px;
 }
 
 div.post blockquote {
