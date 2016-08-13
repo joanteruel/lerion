@@ -195,7 +195,8 @@ div.post blockquote {
 	color: #666;
 	border-left: 1px solid #ccc;
 }
-
+div.post blockquote > :first-child {}
+div.post blockquote > :last-child {}
 
 /*-------------------------------
 Archive
