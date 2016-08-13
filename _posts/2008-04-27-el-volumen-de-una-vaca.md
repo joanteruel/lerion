@@ -17,7 +17,7 @@ published: true
 <strong>Biólogo</strong>: Buscamos la edad de la vaca en una gráfica estadística edad/volumen para esa especie.  
 <strong>Veterinario</strong>: multiplicamos la altura de la vaca por un factor que viene en el handbook de veterinarios.  
 <strong>Ganadero</strong>: ¿para qué quieres saber el volumen de una vaca?  
-<strong>Estudiante de la E.S.O</strong>: Kreo que se mide el bolúmen de la baka con un haparato de medir bolumenes. Hapruevame, va porfiii  
+<strong>Estudiante de la E.S.O</strong>: Kreo que se mide el bolúmen de la baka con un haparato de medir bolumenes. Hapruevame, va porfiii.  
 <strong>Estudiante de bachillerato</strong>: Facil. se dibide la masa entre la densidad de la baca. Pero no sale la densidad, faltan datos tio  
 <strong>Geólogo</strong>: 4/3*pi*r3, donde r es la distancia media del centro de la vaca a la superficie, más o menos.  
 <strong>Paleontólogo</strong>: Se mide la longitud y sección del fémur y se sustituye en la tabla de Goldieff para mamíferos hervíboros.  
