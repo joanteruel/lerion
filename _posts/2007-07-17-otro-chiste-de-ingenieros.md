@@ -21,6 +21,7 @@ meta: {}
 >Poco tiempo pasó y el ingeniero se cansó de padecer las miserias del infierno, y se puso a diseñar y construir mejoras. Con el paso del tiempo, ya tenían ISO 9000, sistema de monitoreo de cenizas, aire acondicionado, inodoros con drenaje, escaleras eléctricas, equipos electrónicos, redes de telecomunicaciones, programas de mantenimiento predictivo, sistemas de control visual, sistemas de detección de incendios, termostatos digitales, etc. ... y el "Inge" se hizo de muy buena reputación.  
 >
 >Un día Dios llamó al Diablo por teléfono y (con tono de sospecha) le preguntó: "¿Y qué... Cómo estáis por allí en el infierno?"  
+>
 >"¡¡Estamos a todo trapo!!! Tenemos ISO 9000, sistema de monitoreo de cenizas, aire acondicionado, inodoros con drenaje, escaleras eléctricas, equipos electrónicos, Internet, etc. Y no sé cuál será la próxima sorpresa del ingeniero!".  
 >
 >"¿Qué?, ¡¿QUÉ?!. ¿Tenéis un ingeniero allí?? Eso es un error, nunca debió haber llegado ahí un ingeniero. Los ingenieros siempre van al cielo, eso está escrito y resuelto ya. ¡Me lo mandas inmediatamente!".  
