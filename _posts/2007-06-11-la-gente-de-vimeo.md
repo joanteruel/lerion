@@ -26,6 +26,4 @@ En noviembre de 2004 pensaban un nombre para Vimeo...
 
 Este garabato me recuerda mucho a la cantidad de combinaciones que Ryf y yo estuvimos pensando durante muchas horas antes de decidirnos por LERION.
 
-
-
 La calidad de los videos de Vimeo es, a mi entender, muy superior a la que ofrece Youtube y, además conserva el vídeo original para que lo puedan descargar los amigos. Por eso, estamos pasando la mayoría de los vídeos de Lerion a <a href="http://www.vimeo.com/user:lerion/clips">este servidor</a>.
