@@ -206,10 +206,9 @@ div.post blockquote > :last-child {}
 div.post pre {
     font-size: 70%;
     font-family: "Courier 10 Pitch", Courier, monospace;
-    display: block;
     color: #555555;
     margin: auto 40px auto 40px;
-    background: #f4f4f4;
+    padding: 1em 1em;
 	border-left: 1px solid #ccc;
 } 
 
@@ -218,6 +217,8 @@ div.post code {
     font-family: "Courier 10 Pitch", Courier, monospace;
     display: inline;
     color: #555555;
+    margin: auto 40px auto 40px;
+    padding: 1em 1em;
 }
 
 /*-------------------------------
