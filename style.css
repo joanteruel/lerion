@@ -29,9 +29,13 @@ body {
 }
 
 
-strong { font-weight: bold; }
+strong {
+	font-weight: bold;
+}
 
-em { font-style: italic }
+em {
+	font-style: italic;
+}
 
 a, a:link, a:visited {
 	color: #2e5dab;
@@ -163,8 +167,7 @@ div.post p {
 /* Objects */
 
 div.post img {
-	 display: block;
-	 margin: 0px -20px 0px;
+	 margin: 0px 0px 0px -20px;
 	 max-width: 640px;
 	 min-width: 640px;
 }
