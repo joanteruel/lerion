@@ -6,7 +6,5 @@ tags:
 - Viajes
 status: publish
 type: post
-published: true
-meta: {}
 ---
-<img src="http://maps.googleapis.com/maps/api/staticmap?size=640x300&zoom=3&maptype=roadmap%5C&markers=size:mid%7Ccolor:red%7Clabel:1%7Cberlin&sensor=false"/>
+![](http://maps.googleapis.com/maps/api/staticmap?size=640x300&zoom=3&maptype=roadmap%5C&markers=size:mid%7Ccolor:red%7Clabel:1%7Cberlin&sensor=false)
