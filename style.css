@@ -218,17 +218,16 @@ div.post blockquote > :last-child {}
 
 pre {
     padding-bottom:10px;
-    margin:0px 40px 40px 40px;
-    padding-left: 40px;
+    margin:0px 20px 30px 20px;
+    padding-left: 20px;
     max-width: 500px;
-    background-color: #49483e;
+    background-color: #292929;
 }
 
 code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     color: #666;
     font-size: 80%;
-    background-color: #fff;
 }
 
 /*-------------------------------
