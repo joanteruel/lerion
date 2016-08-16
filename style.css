@@ -225,7 +225,7 @@ pre {
 	line-height: 1.2;
 }
 
-code.highlight  {
+code {
     font-family: monospace, Monaco, Consolas;
     color: #666;
 	font-size: 0.9em;
@@ -234,6 +234,11 @@ code.highlight  {
 
 }
 
+.highlight {
+	font-size: 0.9em;
+	line-height: 1.2;
+	word-wrap: break-word;
+}
 /*-------------------------------
 Archive
 -------------------------------*/
