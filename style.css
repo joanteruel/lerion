@@ -217,7 +217,7 @@ div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
 pre {
-    padding-bottom: 20px;
+    padding-bottom:;
     max-width: 400px;
 }
 
@@ -226,7 +226,7 @@ code {
     color: #666;
     line-height: 0.7;
     font-size: 70%;
-	margin-bottom: 20px;
+	margin-bottom: ;
 	padding-left: 10px;
 	border-left: 1px solid #ccc;
 }
