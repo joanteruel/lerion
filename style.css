@@ -137,7 +137,7 @@ Post
 -------------------------------*/
 
 
-div.post > figure > pre {
+div.post {
 	padding: 20px 20px 10px;
 	background: #fff;
 	margin-bottom: 10px;
@@ -217,6 +217,9 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
+figure.highlight {
+	
+}
 
 /*------------------------------------------------------------------
 0. Theme for rouge syntax highlighter
