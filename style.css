@@ -222,7 +222,7 @@ pre.highlight {
     white-space: pre-wrap;
 }
 
-code.highlighter-rouge {
+code.highlighter-rouge .highlight{
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 0.9;
     font-size: 80%;
