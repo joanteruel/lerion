@@ -221,7 +221,7 @@ figure.highlight {
 
 }
 
-pre.highlight, .highlight pre { background-color: #49483e; }
+.highlight pre { background-color: #49483e; }
 
 figure.highlight.c                 { color: #75715e }                            /* Comment                     */
 figure.highlight.err               { color: #960050; background-color: #1e0010 } /* Error                       */
