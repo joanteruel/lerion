@@ -228,7 +228,7 @@ pre {
 }
 
 code {
-    font-family: Monaco, Consolas, monospace;
+    font-family: monospace, Monaco, Consolas;
     color: #666;
 	font-size: 0.85em;
 	line-height: 1.2;
