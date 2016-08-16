@@ -223,11 +223,12 @@ pre {
 	margin: -20px -20px 20px;
 	font-size: 0.9em;
 	line-height: 1.2;
+	word-wrap: break-word;
 }
 
 code {
     font-family: monospace, Monaco, Consolas;
-    color: #666;
+    color: #D9DCDC;
 	font-size: 0.9em;
 	line-height: 1.2;
 	word-wrap: break-word;
