@@ -216,18 +216,19 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
-pre {
+pre .highlight {
     padding-bottom:10px;
     margin:0px 40px 40px 40px;
     padding-left: 40px;
     max-width: 500px;
+    background-color: #49483e;
 }
 
-code {
+code .highlighter-rouge {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     color: #666;
     font-size: 80%;
-
+    background-color: #fff;
 }
 
 /*-------------------------------
