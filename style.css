@@ -235,11 +235,18 @@ code {
 
 }
 
-.highlight .highlighter-rouge {
+.highlight {
 	font-size: 0.9em;
 	line-height: 1.2;
 	word-wrap: break-word;
 }
+
+.highlighter-rouge {
+	font-size: 0.9em;
+	line-height: 1.2;
+	word-wrap: break-word;
+}
+
 /*-------------------------------
 Archive
 -------------------------------*/
