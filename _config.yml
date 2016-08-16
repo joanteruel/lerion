@@ -6,8 +6,3 @@ category_dir: /
 url: http://lerion.com
 permalink: /posts/:year-:month-:day-:title.html
 limit_posts: 0
-highlighter: rouge
-markdown: kramdown
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
