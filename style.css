@@ -226,7 +226,7 @@ pre {
 }
 
 code {
-    font-family: Consolas, "Andale Mono", monospace;
+    font-family: Monaco, Consolas, monospace;
     color: #666;
 	font-size: 90%;
 	line-height: 50%;
