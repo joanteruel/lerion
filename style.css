@@ -224,19 +224,16 @@ pre {
     display: block;
 	margin: -20px -20px 20px;
 	font-size: 0.9em;
-	line-height: 1.2;
 }
 
 code {
     font-family: monospace, Monaco, Consolas;
     color: #666;
 	font-size: 0.9em;
-	line-height: 1.2;
 
 }
 .highlight {
 	font-size: 0.9em;
-	line-height: 1.2;
 }
 /*-------------------------------
 Archive
