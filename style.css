@@ -216,12 +216,6 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
-/*------------------------------------------------------------------
-0. Theme for rouge syntax highlighter
-------------------------------------------------------------------*/
-
-@import url(lerion/monokai.css)
-
 /*-------------------------------
 Archive
 -------------------------------*/
