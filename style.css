@@ -216,9 +216,7 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
-figure.highlight {
 
-}
 
 .highlight { background-color: #000; }
 
