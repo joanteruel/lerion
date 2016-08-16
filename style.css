@@ -36,7 +36,7 @@ body { background: #fff;
 
 body {
 	background: #eeeeee;
-
+	color: #000;
 	font-family: Helvetica, arial, 'Open Sans', sans-serif;
 	font-size: 1.3em;
 	line-height: 1.6em;
@@ -165,7 +165,6 @@ div.post h3 {
 	font:normal bold 36px/30px "Helvetica Neue", Helvetica, arial, sans-serif;
 	line-height: 1.2em;
 	letter-spacing: -1px;
-	color: #000;
 }
 
 div.post h4 {
