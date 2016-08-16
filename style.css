@@ -284,8 +284,7 @@ div.post blockquote > :last-child {}
 0. Theme for rouge syntax highlighter
 ------------------------------------------------------------------*/
 
-@import url(monokai.css)
-
+@import url()
 
 /*-------------------------------
 Archive
