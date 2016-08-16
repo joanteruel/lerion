@@ -216,7 +216,7 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
-pre .highlight {
+pre {
     padding-bottom:10px;
     margin:0px 40px 40px 40px;
     padding-left: 40px;
@@ -224,7 +224,7 @@ pre .highlight {
     background-color: #49483e;
 }
 
-code .highlighter-rouge {
+code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     color: #666;
     font-size: 80%;
