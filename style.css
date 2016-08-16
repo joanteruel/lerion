@@ -218,7 +218,7 @@ div.post blockquote > :last-child {}
 
 
 
-.highlight { background-color: #000; }
+.highlight { background-color: #555; }
 
 .highlight.c                 { color: #75715e }                            /* Comment                     */
 .highlight.err               { color: #960050; background-color: #1e0010 } /* Error                       */
