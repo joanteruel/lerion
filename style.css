@@ -220,14 +220,15 @@ pre {
     padding-bottom:5px;
     margin:0px 0px 30px 20px;
     padding-left: 20px;
+    padding-right: 20px;
     background-color: #292929;
 }
 
 code {
     font-family: Consolas, "Andale Mono", monospace;
     color: #666;
-	font-size: 0.9em;
-	line-height: 1em;
+	font-size: 0.7em;
+	line-height: 0.7em;
 
 }
 .highlight {
