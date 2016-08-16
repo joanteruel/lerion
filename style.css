@@ -137,7 +137,7 @@ Post
 -------------------------------*/
 
 
-div.post {
+div.post > figure > pre {
 	padding: 20px 20px 10px;
 	background: #fff;
 	margin-bottom: 10px;
