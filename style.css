@@ -220,13 +220,13 @@ div.post blockquote > :last-child {}
 
 .highlight { background-color: #000; }
 
-.highlight.c                 { color: #75715e }                            /* Comment                     */
-.highlight.err               { color: #960050; background-color: #1e0010 } /* Error                       */
-.highlight.k                 { color: #66d9ef }                            /* Keyword                     */
-.highlight.l                 { color: #ae81ff }                            /* Literal                     */
-.highlight.n                 { color: #f8f8f2 }                            /* Name                        */
+code.highlight.c                 { color: #75715e }                            /* Comment                     */
+code.highlight.err               { color: #960050; background-color: #1e0010 } /* Error                       */
+code.highlight.k                 { color: #66d9ef }                            /* Keyword                     */
+code.highlight.l                 { color: #ae81ff }                            /* Literal                     */
+code.highlight.n                 { color: #f8f8f2 }                            /* Name                        */
 .highlight.o                 { color: #f92672 }                            /* Operator                    */
-figure.p  		     { color: #f8f8f2 }                            /* Punctuation                 */
+.highlight.p 			     { color: #f8f8f2 }                            /* Punctuation                 */
 .highlight.cm                { color: #75715e }                            /* Comment.Multiline           */
 .highlight.cp                { color: #75715e }                            /* Comment.Preproc             */
 .highlight.c1                { color: #75715e }                            /* Comment.Single              */
@@ -240,7 +240,7 @@ figure.p  		     { color: #f8f8f2 }                            /* Punctuation   
 .highlight.kr                { color: #66d9ef }                            /* Keyword.Reserved            */
 .highlight.kt                { color: #66d9ef }                            /* Keyword.Type                */
 .highlight.ld                { color: #e6db74 }                            /* Literal.Date                */
-figure.m     		     { color: #ae81ff }                            /* Literal.Number              */
+code.highlight.m     		     { color: #ae81ff }                            /* Literal.Number              */
 .highlight.s                 { color: #e6db74 }                            /* Literal.String              */
 .highlight.na                { color: #a6e22e }                            /* Name.Attribute              */
 .highlight.nb                { color: #f8f8f2 }                            /* Name.Builtin                */
@@ -250,11 +250,11 @@ figure.m     		     { color: #ae81ff }                            /* Literal.Num
 .highlight.ni                { color: #f8f8f2 }                            /* Name.Entity                 */
 .highlight.ne                { color: #a6e22e }                            /* Name.Exception              */
 .highlight.nf                { color: #a6e22e }                            /* Name.Function               */
-figure.nl              { color: #f8f8f2 }                            /* Name.Label                  */
+code.highlight.nl                { color: #f8f8f2 }                            /* Name.Label                  */
 .highlight.nn                { color: #f8f8f2 }                            /* Name.Namespace              */
 .highlight.nx                { color: #a6e22e }                            /* Name.Other                  */
 .highlight.py                { color: #f8f8f2 }                            /* Name.Property               */
-figure.nt              { color: #f92672 }                            /* Name.Tag                    */
+code.highlight.nt                { color: #f92672 }                            /* Name.Tag                    */
 .highlight.nv                { color: #f8f8f2 }                            /* Name.Variable               */
 .highlight.ow                { color: #f92672 }                            /* Operator.Word               */
 .highlight.w                 { color: #f8f8f2 }                            /* Text.Whitespace             */
