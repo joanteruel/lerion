@@ -223,19 +223,19 @@ pre {
     background-color: #282828;
     display: block;
 	margin: -20px -20px 20px;
-	font-size: 0.8em;
+	font-size: 0.9em;
 	line-height: 1.2;
 }
 
 code {
     font-family: Monaco, Consolas, monospace;
     color: #666;
-	font-size: 0.8em;
+	font-size: 0.9em;
 	line-height: 1.2;
 
 }
 .highlight {
-	font-size: 0.8em;
+	font-size: 0.9em;
 	line-height: 1.2ß;
 }
 /*-------------------------------
