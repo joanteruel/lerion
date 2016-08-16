@@ -218,12 +218,11 @@ div.post blockquote > :last-child {}
 
 pre {
     padding-bottom:5px;
-    margin:-10px 0px 20px 20px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #E6E6E6;
-    width: 520px;
-    border-left: 4px solid #00D100FF;
+    background-color: #282828;
+    display: block;
+	margin: 0px -20px 0px;
 }
 
 code {
