@@ -223,20 +223,20 @@ pre {
     background-color: #282828;
     display: block;
 	margin: -20px -20px 20px;
-	font-size: 0.5em;
-	line-height: 1.0;
+	font-size: 0.8em;
+	line-height: 1.1;
 }
 
 code {
     font-family: Monaco, Consolas, monospace;
     color: #666;
-	font-size: 0.5em;
-	line-height: 1.0;
+	font-size: 0.8em;
+	line-height: 1.1;
 
 }
 .highlight {
-	font-size: 0.5em;
-	line-height: 1.0;
+	font-size: 0.8em;
+	line-height: 1.1;
 }
 /*-------------------------------
 Archive
