@@ -218,9 +218,8 @@ div.post blockquote > :last-child {}
 
 pre {
     padding-bottom:10px;
-    margin:0px 20px 30px 20px;
+    margin:0px 0px 30px 20px;
     padding-left: 20px;
-    width: inherit;
     background-color: #292929;
 }
 
@@ -228,9 +227,12 @@ code {
     font-family: "Courier new", Courier, "Andale Mono", monospace;
     color: #666;
     font-size: 80%;
-    width: inherit;
-}
 
+}
+.highlight {
+	width: 500px;
+
+}
 /*-------------------------------
 Archive
 -------------------------------*/
