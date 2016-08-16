@@ -216,13 +216,13 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
-pre.highlight {
+pre {
     padding: 0px 24px;
     max-width: 600px;
     white-space: pre-wrap;
 }
 
-code.highlighter-rouge .highlight{
+code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 0.9;
     font-size: 80%;
