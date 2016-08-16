@@ -228,8 +228,8 @@ pre {
 code {
     font-family: Monaco, Consolas, monospace;
     color: #666;
-	font-size: 3px;
-	line-height: 5px;
+	font-size: 0.8em;
+	line-height: 1.0;
 
 }
 .highlight {
