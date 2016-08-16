@@ -229,7 +229,7 @@ code {
     font-family: Consolas, "Andale Mono", monospace;
     color: #666;
 	font-size: 70%;
-	line-height: 70%;
+	line-height: small;
 
 }
 .highlight {
