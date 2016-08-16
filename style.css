@@ -7,12 +7,6 @@ License: GNU/GPL Version 2 or later. http://www.gnu.org/licenses/gpl.html
 */
 
 /*------------------------------------------------------------------
-0. Theme for rouge syntax highlighter
-------------------------------------------------------------------*/
-
-@import url(monokai.css)
-
-/*------------------------------------------------------------------
 1.	RESET
 	Global reset for all HTML elements
 ------------------------------------------------------------------*/
@@ -223,6 +217,12 @@ div.post blockquote {
 div.post blockquote > :first-child {}
 div.post blockquote > :last-child {}
 
+
+/*------------------------------------------------------------------
+0. Theme for rouge syntax highlighter
+------------------------------------------------------------------*/
+
+@import url(monokai.css)
 
 
 /*-------------------------------
