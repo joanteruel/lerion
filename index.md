@@ -4,9 +4,7 @@ title: Lerion
 ---
 # Lerion.com
 
-![][1]
-
-![][2]
+![][1] ![][2]
 
 ## # About
 
