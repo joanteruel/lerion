@@ -4,7 +4,7 @@ title: Lerion
 ---
 # Lerion.com
 
-[![][1]][4] [![][2]][3]
+[![Jaume Teruel][1]][4] [![Joan Teruel][2]][3]
 
 ## # About
 
