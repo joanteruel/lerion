@@ -1,3 +1,3 @@
-lerion
+Lerion.com
 ======
-Blog based on Jekyll and Markdown.
+Jaume&Joan personal domain.

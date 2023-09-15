@@ -1,8 +1,3 @@
 name: Lerion
-description: Personal blog of Joan Teruel and Jaume Teruel
-author: Joan and Jaume
-author_email: joanrafel at gmail
-category_dir: /
-url: http://lerion.com
-permalink: /posts/:year-:month-:day-:title.html
-limit_posts: 0
+description: Lerion domain
+url: http://www.lerion.com

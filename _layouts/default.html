@@ -1,36 +1,16 @@
 <!DOCTYPE html>
-
 <html>
     <head>
-
-		{% include header.html %}
-
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+		<meta name="viewport" content="width=780">
+              <link rel="stylesheet" href="{{ site.url }}/css/reset.css" >
+		<link rel="stylesheet" href="{{ site.url }}/css/style.css" >
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
     </head>
-<body>
-	<div id="wrap">
-		
-		{% include logo.html %}
-
-	<div id="content">
-		
-		<div id="blog">			
-
-	 		{{ content }}
-
-			<div id="more"><a href="{{site.url}}/archive.html"><span class="plus">+</span><span class="in">&nbsp;on&nbsp;Archive</span></a>
-			</div>
-	
-		</div>		
-		
-		{% include media.html %}
-		
-	</div>
-
-	<div id="spacefooter"></div>
-
-		{% include footer.html %}	
-	
-	</div>
-
-</body>
+    <body>
+		<article>
+   		 	{{ content }}
+		</article>
+	</body>
 </html>
