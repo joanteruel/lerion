@@ -8,7 +8,7 @@ title: Lerion
 
 ## # About
 
-Personal domain of [Joan Teruel][3] and [Jaume Teruel][4], a pair of very busy engineers who try to find the time to update it. Under [Creative Commons][5] License 
+Personal domain of [Joan Teruel][3] and [Jaume Teruel][4], a pair of busy engineers who endeavor to find time to update it. Under the [Creative Commons][5] License 
 
    [1]: /images/jaumeteruel_square.png
    [2]: /images/joanteruel_square.png
