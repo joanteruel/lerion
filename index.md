@@ -6,7 +6,7 @@ title: Lerion
 
 [![Jaume Teruel][1]][4] [![Joan Teruel][2]][3]
 
-Personal domain of [Joan Teruel][3] and [Jaume Teruel][4], a pair of busy engineers who endeavor to find time to update it. Under the [Creative Commons][5] License 
+Personal domain of [Joan Teruel][3] and [Jaume Teruel][4], a pair of busy engineers who endeavor to find time to update it since 2004.
 
    [1]: /images/jaumeteruel_square.png
    [2]: /images/joanteruel_square.png
